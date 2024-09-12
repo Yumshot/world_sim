@@ -1,0 +1,6050 @@
+[
+  {
+    "day": 0,
+    "growth_rate": "0.00",
+    "hours": 0,
+    "minutes": 15,
+    "population": 100,
+    "resources": 1000,
+    "tick": 1
+  },
+  {
+    "day": 0,
+    "growth_rate": "0.00",
+    "hours": 0,
+    "minutes": 30,
+    "population": 100,
+    "resources": 1000,
+    "tick": 2
+  },
+  {
+    "day": 0,
+    "growth_rate": "0.00",
+    "hours": 0,
+    "minutes": 45,
+    "population": 100,
+    "resources": 1000,
+    "tick": 3
+  },
+  {
+    "day": 0,
+    "growth_rate": "1.00",
+    "hours": 1,
+    "minutes": 0,
+    "population": 101,
+    "resources": 1138,
+    "tick": 4
+  },
+  {
+    "day": 0,
+    "growth_rate": "1.00",
+    "hours": 1,
+    "minutes": 15,
+    "population": 101,
+    "resources": 1138,
+    "tick": 5
+  },
+  {
+    "day": 0,
+    "growth_rate": "1.00",
+    "hours": 1,
+    "minutes": 30,
+    "population": 101,
+    "resources": 1138,
+    "tick": 6
+  },
+  {
+    "day": 0,
+    "growth_rate": "1.00",
+    "hours": 1,
+    "minutes": 45,
+    "population": 101,
+    "resources": 1138,
+    "tick": 7
+  },
+  {
+    "day": 0,
+    "growth_rate": "1.00",
+    "hours": 2,
+    "minutes": 0,
+    "population": 101,
+    "resources": 1138,
+    "tick": 8
+  },
+  {
+    "day": 0,
+    "growth_rate": "1.00",
+    "hours": 2,
+    "minutes": 15,
+    "population": 101,
+    "resources": 1138,
+    "tick": 9
+  },
+  {
+    "day": 0,
+    "growth_rate": "1.00",
+    "hours": 2,
+    "minutes": 30,
+    "population": 101,
+    "resources": 1138,
+    "tick": 10
+  },
+  {
+    "day": 0,
+    "growth_rate": "1.00",
+    "hours": 2,
+    "minutes": 45,
+    "population": 101,
+    "resources": 1138,
+    "tick": 11
+  },
+  {
+    "day": 0,
+    "growth_rate": "-22.00",
+    "hours": 3,
+    "minutes": 0,
+    "population": 78,
+    "resources": 900,
+    "tick": 12
+  },
+  {
+    "day": 0,
+    "growth_rate": "-22.00",
+    "hours": 3,
+    "minutes": 15,
+    "population": 78,
+    "resources": 900,
+    "tick": 13
+  },
+  {
+    "day": 0,
+    "growth_rate": "-22.00",
+    "hours": 3,
+    "minutes": 30,
+    "population": 78,
+    "resources": 900,
+    "tick": 14
+  },
+  {
+    "day": 0,
+    "growth_rate": "-22.00",
+    "hours": 3,
+    "minutes": 45,
+    "population": 78,
+    "resources": 900,
+    "tick": 15
+  },
+  {
+    "day": 0,
+    "growth_rate": "-22.00",
+    "hours": 4,
+    "minutes": 0,
+    "population": 78,
+    "resources": 900,
+    "tick": 16
+  },
+  {
+    "day": 0,
+    "growth_rate": "-22.00",
+    "hours": 4,
+    "minutes": 15,
+    "population": 78,
+    "resources": 900,
+    "tick": 17
+  },
+  {
+    "day": 0,
+    "growth_rate": "-22.00",
+    "hours": 4,
+    "minutes": 30,
+    "population": 78,
+    "resources": 900,
+    "tick": 18
+  },
+  {
+    "day": 0,
+    "growth_rate": "-22.00",
+    "hours": 4,
+    "minutes": 45,
+    "population": 78,
+    "resources": 900,
+    "tick": 19
+  },
+  {
+    "day": 0,
+    "growth_rate": "-29.00",
+    "hours": 5,
+    "minutes": 0,
+    "population": 71,
+    "resources": 867,
+    "tick": 20
+  },
+  {
+    "day": 0,
+    "growth_rate": "-29.00",
+    "hours": 5,
+    "minutes": 15,
+    "population": 71,
+    "resources": 867,
+    "tick": 21
+  },
+  {
+    "day": 0,
+    "growth_rate": "-29.00",
+    "hours": 5,
+    "minutes": 30,
+    "population": 71,
+    "resources": 867,
+    "tick": 22
+  },
+  {
+    "day": 0,
+    "growth_rate": "-29.00",
+    "hours": 5,
+    "minutes": 45,
+    "population": 71,
+    "resources": 867,
+    "tick": 23
+  },
+  {
+    "day": 0,
+    "growth_rate": "-29.00",
+    "hours": 6,
+    "minutes": 0,
+    "population": 71,
+    "resources": 867,
+    "tick": 24
+  },
+  {
+    "day": 0,
+    "growth_rate": "-29.00",
+    "hours": 6,
+    "minutes": 15,
+    "population": 71,
+    "resources": 867,
+    "tick": 25
+  },
+  {
+    "day": 0,
+    "growth_rate": "-29.00",
+    "hours": 6,
+    "minutes": 30,
+    "population": 71,
+    "resources": 867,
+    "tick": 26
+  },
+  {
+    "day": 0,
+    "growth_rate": "-29.00",
+    "hours": 6,
+    "minutes": 45,
+    "population": 71,
+    "resources": 867,
+    "tick": 27
+  },
+  {
+    "day": 0,
+    "growth_rate": "-13.00",
+    "hours": 7,
+    "minutes": 0,
+    "population": 87,
+    "resources": 979,
+    "tick": 28
+  },
+  {
+    "day": 0,
+    "growth_rate": "-13.00",
+    "hours": 7,
+    "minutes": 15,
+    "population": 87,
+    "resources": 979,
+    "tick": 29
+  },
+  {
+    "day": 0,
+    "growth_rate": "-13.00",
+    "hours": 7,
+    "minutes": 30,
+    "population": 87,
+    "resources": 979,
+    "tick": 30
+  },
+  {
+    "day": 0,
+    "growth_rate": "-13.00",
+    "hours": 7,
+    "minutes": 45,
+    "population": 87,
+    "resources": 979,
+    "tick": 31
+  },
+  {
+    "day": 0,
+    "growth_rate": "-13.00",
+    "hours": 8,
+    "minutes": 0,
+    "population": 87,
+    "resources": 979,
+    "tick": 32
+  },
+  {
+    "day": 0,
+    "growth_rate": "-13.00",
+    "hours": 8,
+    "minutes": 15,
+    "population": 87,
+    "resources": 979,
+    "tick": 33
+  },
+  {
+    "day": 0,
+    "growth_rate": "-13.00",
+    "hours": 8,
+    "minutes": 30,
+    "population": 87,
+    "resources": 979,
+    "tick": 34
+  },
+  {
+    "day": 0,
+    "growth_rate": "-13.00",
+    "hours": 8,
+    "minutes": 45,
+    "population": 87,
+    "resources": 979,
+    "tick": 35
+  },
+  {
+    "day": 0,
+    "growth_rate": "-18.00",
+    "hours": 9,
+    "minutes": 0,
+    "population": 82,
+    "resources": 776,
+    "tick": 36
+  },
+  {
+    "day": 0,
+    "growth_rate": "-18.00",
+    "hours": 9,
+    "minutes": 15,
+    "population": 82,
+    "resources": 776,
+    "tick": 37
+  },
+  {
+    "day": 0,
+    "growth_rate": "-18.00",
+    "hours": 9,
+    "minutes": 30,
+    "population": 82,
+    "resources": 776,
+    "tick": 38
+  },
+  {
+    "day": 0,
+    "growth_rate": "-18.00",
+    "hours": 9,
+    "minutes": 45,
+    "population": 82,
+    "resources": 776,
+    "tick": 39
+  },
+  {
+    "day": 0,
+    "growth_rate": "-18.00",
+    "hours": 10,
+    "minutes": 0,
+    "population": 82,
+    "resources": 776,
+    "tick": 40
+  },
+  {
+    "day": 0,
+    "growth_rate": "-18.00",
+    "hours": 10,
+    "minutes": 15,
+    "population": 82,
+    "resources": 776,
+    "tick": 41
+  },
+  {
+    "day": 0,
+    "growth_rate": "-18.00",
+    "hours": 10,
+    "minutes": 30,
+    "population": 82,
+    "resources": 776,
+    "tick": 42
+  },
+  {
+    "day": 0,
+    "growth_rate": "-18.00",
+    "hours": 10,
+    "minutes": 45,
+    "population": 82,
+    "resources": 776,
+    "tick": 43
+  },
+  {
+    "day": 0,
+    "growth_rate": "-2.00",
+    "hours": 11,
+    "minutes": 0,
+    "population": 98,
+    "resources": 1032,
+    "tick": 44
+  },
+  {
+    "day": 0,
+    "growth_rate": "-2.00",
+    "hours": 11,
+    "minutes": 15,
+    "population": 98,
+    "resources": 1032,
+    "tick": 45
+  },
+  {
+    "day": 0,
+    "growth_rate": "-2.00",
+    "hours": 11,
+    "minutes": 30,
+    "population": 98,
+    "resources": 1032,
+    "tick": 46
+  },
+  {
+    "day": 0,
+    "growth_rate": "-2.00",
+    "hours": 11,
+    "minutes": 45,
+    "population": 98,
+    "resources": 1032,
+    "tick": 47
+  },
+  {
+    "day": 0,
+    "growth_rate": "-2.00",
+    "hours": 12,
+    "minutes": 0,
+    "population": 98,
+    "resources": 1032,
+    "tick": 48
+  },
+  {
+    "day": 0,
+    "growth_rate": "-2.00",
+    "hours": 12,
+    "minutes": 15,
+    "population": 98,
+    "resources": 1032,
+    "tick": 49
+  },
+  {
+    "day": 0,
+    "growth_rate": "-2.00",
+    "hours": 12,
+    "minutes": 30,
+    "population": 98,
+    "resources": 1032,
+    "tick": 50
+  },
+  {
+    "day": 0,
+    "growth_rate": "-2.00",
+    "hours": 12,
+    "minutes": 45,
+    "population": 98,
+    "resources": 1032,
+    "tick": 51
+  },
+  {
+    "day": 0,
+    "growth_rate": "-21.00",
+    "hours": 13,
+    "minutes": 0,
+    "population": 79,
+    "resources": 788,
+    "tick": 52
+  },
+  {
+    "day": 0,
+    "growth_rate": "-21.00",
+    "hours": 13,
+    "minutes": 15,
+    "population": 79,
+    "resources": 788,
+    "tick": 53
+  },
+  {
+    "day": 0,
+    "growth_rate": "-21.00",
+    "hours": 13,
+    "minutes": 30,
+    "population": 79,
+    "resources": 788,
+    "tick": 54
+  },
+  {
+    "day": 0,
+    "growth_rate": "-21.00",
+    "hours": 13,
+    "minutes": 45,
+    "population": 79,
+    "resources": 788,
+    "tick": 55
+  },
+  {
+    "day": 0,
+    "growth_rate": "-21.00",
+    "hours": 14,
+    "minutes": 0,
+    "population": 79,
+    "resources": 788,
+    "tick": 56
+  },
+  {
+    "day": 0,
+    "growth_rate": "-21.00",
+    "hours": 14,
+    "minutes": 15,
+    "population": 79,
+    "resources": 788,
+    "tick": 57
+  },
+  {
+    "day": 0,
+    "growth_rate": "-21.00",
+    "hours": 14,
+    "minutes": 30,
+    "population": 79,
+    "resources": 788,
+    "tick": 58
+  },
+  {
+    "day": 0,
+    "growth_rate": "-21.00",
+    "hours": 14,
+    "minutes": 45,
+    "population": 79,
+    "resources": 788,
+    "tick": 59
+  },
+  {
+    "day": 0,
+    "growth_rate": "-37.00",
+    "hours": 15,
+    "minutes": 0,
+    "population": 63,
+    "resources": 672,
+    "tick": 60
+  },
+  {
+    "day": 0,
+    "growth_rate": "-37.00",
+    "hours": 15,
+    "minutes": 15,
+    "population": 63,
+    "resources": 672,
+    "tick": 61
+  },
+  {
+    "day": 0,
+    "growth_rate": "-37.00",
+    "hours": 15,
+    "minutes": 30,
+    "population": 63,
+    "resources": 672,
+    "tick": 62
+  },
+  {
+    "day": 0,
+    "growth_rate": "-37.00",
+    "hours": 15,
+    "minutes": 45,
+    "population": 63,
+    "resources": 672,
+    "tick": 63
+  },
+  {
+    "day": 0,
+    "growth_rate": "-37.00",
+    "hours": 16,
+    "minutes": 0,
+    "population": 63,
+    "resources": 672,
+    "tick": 64
+  },
+  {
+    "day": 0,
+    "growth_rate": "-37.00",
+    "hours": 16,
+    "minutes": 15,
+    "population": 63,
+    "resources": 672,
+    "tick": 65
+  },
+  {
+    "day": 0,
+    "growth_rate": "-37.00",
+    "hours": 16,
+    "minutes": 30,
+    "population": 63,
+    "resources": 672,
+    "tick": 66
+  },
+  {
+    "day": 0,
+    "growth_rate": "-37.00",
+    "hours": 16,
+    "minutes": 45,
+    "population": 63,
+    "resources": 672,
+    "tick": 67
+  },
+  {
+    "day": 0,
+    "growth_rate": "-33.00",
+    "hours": 17,
+    "minutes": 0,
+    "population": 67,
+    "resources": 787,
+    "tick": 68
+  },
+  {
+    "day": 0,
+    "growth_rate": "-33.00",
+    "hours": 17,
+    "minutes": 15,
+    "population": 67,
+    "resources": 787,
+    "tick": 69
+  },
+  {
+    "day": 0,
+    "growth_rate": "-33.00",
+    "hours": 17,
+    "minutes": 30,
+    "population": 67,
+    "resources": 787,
+    "tick": 70
+  },
+  {
+    "day": 0,
+    "growth_rate": "-33.00",
+    "hours": 17,
+    "minutes": 45,
+    "population": 67,
+    "resources": 787,
+    "tick": 71
+  },
+  {
+    "day": 0,
+    "growth_rate": "-33.00",
+    "hours": 18,
+    "minutes": 0,
+    "population": 67,
+    "resources": 787,
+    "tick": 72
+  },
+  {
+    "day": 0,
+    "growth_rate": "-33.00",
+    "hours": 18,
+    "minutes": 15,
+    "population": 67,
+    "resources": 787,
+    "tick": 73
+  },
+  {
+    "day": 0,
+    "growth_rate": "-33.00",
+    "hours": 18,
+    "minutes": 30,
+    "population": 67,
+    "resources": 787,
+    "tick": 74
+  },
+  {
+    "day": 0,
+    "growth_rate": "-33.00",
+    "hours": 18,
+    "minutes": 45,
+    "population": 67,
+    "resources": 787,
+    "tick": 75
+  },
+  {
+    "day": 0,
+    "growth_rate": "-40.00",
+    "hours": 19,
+    "minutes": 0,
+    "population": 60,
+    "resources": 759,
+    "tick": 76
+  },
+  {
+    "day": 0,
+    "growth_rate": "-40.00",
+    "hours": 19,
+    "minutes": 15,
+    "population": 60,
+    "resources": 759,
+    "tick": 77
+  },
+  {
+    "day": 0,
+    "growth_rate": "-40.00",
+    "hours": 19,
+    "minutes": 30,
+    "population": 60,
+    "resources": 759,
+    "tick": 78
+  },
+  {
+    "day": 0,
+    "growth_rate": "-40.00",
+    "hours": 19,
+    "minutes": 45,
+    "population": 60,
+    "resources": 759,
+    "tick": 79
+  },
+  {
+    "day": 0,
+    "growth_rate": "-40.00",
+    "hours": 20,
+    "minutes": 0,
+    "population": 60,
+    "resources": 759,
+    "tick": 80
+  },
+  {
+    "day": 0,
+    "growth_rate": "-40.00",
+    "hours": 20,
+    "minutes": 15,
+    "population": 60,
+    "resources": 759,
+    "tick": 81
+  },
+  {
+    "day": 0,
+    "growth_rate": "-40.00",
+    "hours": 20,
+    "minutes": 30,
+    "population": 60,
+    "resources": 759,
+    "tick": 82
+  },
+  {
+    "day": 0,
+    "growth_rate": "-40.00",
+    "hours": 20,
+    "minutes": 45,
+    "population": 60,
+    "resources": 759,
+    "tick": 83
+  },
+  {
+    "day": 0,
+    "growth_rate": "-28.00",
+    "hours": 21,
+    "minutes": 0,
+    "population": 72,
+    "resources": 997,
+    "tick": 84
+  },
+  {
+    "day": 0,
+    "growth_rate": "-28.00",
+    "hours": 21,
+    "minutes": 15,
+    "population": 72,
+    "resources": 997,
+    "tick": 85
+  },
+  {
+    "day": 0,
+    "growth_rate": "-28.00",
+    "hours": 21,
+    "minutes": 30,
+    "population": 72,
+    "resources": 997,
+    "tick": 86
+  },
+  {
+    "day": 0,
+    "growth_rate": "-28.00",
+    "hours": 21,
+    "minutes": 45,
+    "population": 72,
+    "resources": 997,
+    "tick": 87
+  },
+  {
+    "day": 0,
+    "growth_rate": "-28.00",
+    "hours": 22,
+    "minutes": 0,
+    "population": 72,
+    "resources": 997,
+    "tick": 88
+  },
+  {
+    "day": 0,
+    "growth_rate": "-28.00",
+    "hours": 22,
+    "minutes": 15,
+    "population": 72,
+    "resources": 997,
+    "tick": 89
+  },
+  {
+    "day": 0,
+    "growth_rate": "-28.00",
+    "hours": 22,
+    "minutes": 30,
+    "population": 72,
+    "resources": 997,
+    "tick": 90
+  },
+  {
+    "day": 0,
+    "growth_rate": "-28.00",
+    "hours": 22,
+    "minutes": 45,
+    "population": 72,
+    "resources": 997,
+    "tick": 91
+  },
+  {
+    "day": 0,
+    "growth_rate": "-14.00",
+    "hours": 23,
+    "minutes": 0,
+    "population": 86,
+    "resources": 1310,
+    "tick": 92
+  },
+  {
+    "day": 0,
+    "growth_rate": "-14.00",
+    "hours": 23,
+    "minutes": 15,
+    "population": 86,
+    "resources": 1310,
+    "tick": 93
+  },
+  {
+    "day": 0,
+    "growth_rate": "-14.00",
+    "hours": 23,
+    "minutes": 30,
+    "population": 86,
+    "resources": 1310,
+    "tick": 94
+  },
+  {
+    "day": 0,
+    "growth_rate": "-14.00",
+    "hours": 23,
+    "minutes": 45,
+    "population": 86,
+    "resources": 1310,
+    "tick": 95
+  },
+  {
+    "day": 1,
+    "growth_rate": "-14.00",
+    "hours": 0,
+    "minutes": 0,
+    "population": 86,
+    "resources": 1310,
+    "tick": 0
+  },
+  {
+    "day": 1,
+    "growth_rate": "-14.00",
+    "hours": 0,
+    "minutes": 15,
+    "population": 86,
+    "resources": 1310,
+    "tick": 1
+  },
+  {
+    "day": 1,
+    "growth_rate": "-14.00",
+    "hours": 0,
+    "minutes": 30,
+    "population": 86,
+    "resources": 1310,
+    "tick": 2
+  },
+  {
+    "day": 1,
+    "growth_rate": "-14.00",
+    "hours": 0,
+    "minutes": 45,
+    "population": 86,
+    "resources": 1310,
+    "tick": 3
+  },
+  {
+    "day": 1,
+    "growth_rate": "-25.00",
+    "hours": 1,
+    "minutes": 0,
+    "population": 75,
+    "resources": 1240,
+    "tick": 4
+  },
+  {
+    "day": 1,
+    "growth_rate": "-25.00",
+    "hours": 1,
+    "minutes": 15,
+    "population": 75,
+    "resources": 1240,
+    "tick": 5
+  },
+  {
+    "day": 1,
+    "growth_rate": "-25.00",
+    "hours": 1,
+    "minutes": 30,
+    "population": 75,
+    "resources": 1240,
+    "tick": 6
+  },
+  {
+    "day": 1,
+    "growth_rate": "-25.00",
+    "hours": 1,
+    "minutes": 45,
+    "population": 75,
+    "resources": 1240,
+    "tick": 7
+  },
+  {
+    "day": 1,
+    "growth_rate": "-25.00",
+    "hours": 2,
+    "minutes": 0,
+    "population": 75,
+    "resources": 1240,
+    "tick": 8
+  },
+  {
+    "day": 1,
+    "growth_rate": "-25.00",
+    "hours": 2,
+    "minutes": 15,
+    "population": 75,
+    "resources": 1240,
+    "tick": 9
+  },
+  {
+    "day": 1,
+    "growth_rate": "-25.00",
+    "hours": 2,
+    "minutes": 30,
+    "population": 75,
+    "resources": 1240,
+    "tick": 10
+  },
+  {
+    "day": 1,
+    "growth_rate": "-25.00",
+    "hours": 2,
+    "minutes": 45,
+    "population": 75,
+    "resources": 1240,
+    "tick": 11
+  },
+  {
+    "day": 1,
+    "growth_rate": "-41.00",
+    "hours": 3,
+    "minutes": 0,
+    "population": 59,
+    "resources": 1135,
+    "tick": 12
+  },
+  {
+    "day": 1,
+    "growth_rate": "-41.00",
+    "hours": 3,
+    "minutes": 15,
+    "population": 59,
+    "resources": 1135,
+    "tick": 13
+  },
+  {
+    "day": 1,
+    "growth_rate": "-41.00",
+    "hours": 3,
+    "minutes": 30,
+    "population": 59,
+    "resources": 1135,
+    "tick": 14
+  },
+  {
+    "day": 1,
+    "growth_rate": "-41.00",
+    "hours": 3,
+    "minutes": 45,
+    "population": 59,
+    "resources": 1135,
+    "tick": 15
+  },
+  {
+    "day": 1,
+    "growth_rate": "-41.00",
+    "hours": 4,
+    "minutes": 0,
+    "population": 59,
+    "resources": 1135,
+    "tick": 16
+  },
+  {
+    "day": 1,
+    "growth_rate": "-41.00",
+    "hours": 4,
+    "minutes": 15,
+    "population": 59,
+    "resources": 1135,
+    "tick": 17
+  },
+  {
+    "day": 1,
+    "growth_rate": "-41.00",
+    "hours": 4,
+    "minutes": 30,
+    "population": 59,
+    "resources": 1135,
+    "tick": 18
+  },
+  {
+    "day": 1,
+    "growth_rate": "-41.00",
+    "hours": 4,
+    "minutes": 45,
+    "population": 59,
+    "resources": 1135,
+    "tick": 19
+  },
+  {
+    "day": 1,
+    "growth_rate": "-32.00",
+    "hours": 5,
+    "minutes": 0,
+    "population": 68,
+    "resources": 1193,
+    "tick": 20
+  },
+  {
+    "day": 1,
+    "growth_rate": "-32.00",
+    "hours": 5,
+    "minutes": 15,
+    "population": 68,
+    "resources": 1193,
+    "tick": 21
+  },
+  {
+    "day": 1,
+    "growth_rate": "-32.00",
+    "hours": 5,
+    "minutes": 30,
+    "population": 68,
+    "resources": 1193,
+    "tick": 22
+  },
+  {
+    "day": 1,
+    "growth_rate": "-32.00",
+    "hours": 5,
+    "minutes": 45,
+    "population": 68,
+    "resources": 1193,
+    "tick": 23
+  },
+  {
+    "day": 1,
+    "growth_rate": "-32.00",
+    "hours": 6,
+    "minutes": 0,
+    "population": 68,
+    "resources": 1193,
+    "tick": 24
+  },
+  {
+    "day": 1,
+    "growth_rate": "-32.00",
+    "hours": 6,
+    "minutes": 15,
+    "population": 68,
+    "resources": 1193,
+    "tick": 25
+  },
+  {
+    "day": 1,
+    "growth_rate": "-32.00",
+    "hours": 6,
+    "minutes": 30,
+    "population": 68,
+    "resources": 1193,
+    "tick": 26
+  },
+  {
+    "day": 1,
+    "growth_rate": "-32.00",
+    "hours": 6,
+    "minutes": 45,
+    "population": 68,
+    "resources": 1193,
+    "tick": 27
+  },
+  {
+    "day": 1,
+    "growth_rate": "-29.00",
+    "hours": 7,
+    "minutes": 0,
+    "population": 71,
+    "resources": 1502,
+    "tick": 28
+  },
+  {
+    "day": 1,
+    "growth_rate": "-29.00",
+    "hours": 7,
+    "minutes": 15,
+    "population": 71,
+    "resources": 1502,
+    "tick": 29
+  },
+  {
+    "day": 1,
+    "growth_rate": "-29.00",
+    "hours": 7,
+    "minutes": 30,
+    "population": 71,
+    "resources": 1502,
+    "tick": 30
+  },
+  {
+    "day": 1,
+    "growth_rate": "-29.00",
+    "hours": 7,
+    "minutes": 45,
+    "population": 71,
+    "resources": 1502,
+    "tick": 31
+  },
+  {
+    "day": 1,
+    "growth_rate": "-29.00",
+    "hours": 8,
+    "minutes": 0,
+    "population": 71,
+    "resources": 1502,
+    "tick": 32
+  },
+  {
+    "day": 1,
+    "growth_rate": "-29.00",
+    "hours": 8,
+    "minutes": 15,
+    "population": 71,
+    "resources": 1502,
+    "tick": 33
+  },
+  {
+    "day": 1,
+    "growth_rate": "-29.00",
+    "hours": 8,
+    "minutes": 30,
+    "population": 71,
+    "resources": 1502,
+    "tick": 34
+  },
+  {
+    "day": 1,
+    "growth_rate": "-29.00",
+    "hours": 8,
+    "minutes": 45,
+    "population": 71,
+    "resources": 1502,
+    "tick": 35
+  },
+  {
+    "day": 1,
+    "growth_rate": "-11.00",
+    "hours": 9,
+    "minutes": 0,
+    "population": 89,
+    "resources": 1797,
+    "tick": 36
+  },
+  {
+    "day": 1,
+    "growth_rate": "-11.00",
+    "hours": 9,
+    "minutes": 15,
+    "population": 89,
+    "resources": 1797,
+    "tick": 37
+  },
+  {
+    "day": 1,
+    "growth_rate": "-11.00",
+    "hours": 9,
+    "minutes": 30,
+    "population": 89,
+    "resources": 1797,
+    "tick": 38
+  },
+  {
+    "day": 1,
+    "growth_rate": "-11.00",
+    "hours": 9,
+    "minutes": 45,
+    "population": 89,
+    "resources": 1797,
+    "tick": 39
+  },
+  {
+    "day": 1,
+    "growth_rate": "-11.00",
+    "hours": 10,
+    "minutes": 0,
+    "population": 89,
+    "resources": 1797,
+    "tick": 40
+  },
+  {
+    "day": 1,
+    "growth_rate": "-11.00",
+    "hours": 10,
+    "minutes": 15,
+    "population": 89,
+    "resources": 1797,
+    "tick": 41
+  },
+  {
+    "day": 1,
+    "growth_rate": "-11.00",
+    "hours": 10,
+    "minutes": 30,
+    "population": 89,
+    "resources": 1797,
+    "tick": 42
+  },
+  {
+    "day": 1,
+    "growth_rate": "-11.00",
+    "hours": 10,
+    "minutes": 45,
+    "population": 89,
+    "resources": 1797,
+    "tick": 43
+  },
+  {
+    "day": 1,
+    "growth_rate": "12.00",
+    "hours": 11,
+    "minutes": 0,
+    "population": 112,
+    "resources": 1988,
+    "tick": 44
+  },
+  {
+    "day": 1,
+    "growth_rate": "12.00",
+    "hours": 11,
+    "minutes": 15,
+    "population": 112,
+    "resources": 1988,
+    "tick": 45
+  },
+  {
+    "day": 1,
+    "growth_rate": "12.00",
+    "hours": 11,
+    "minutes": 30,
+    "population": 112,
+    "resources": 1988,
+    "tick": 46
+  },
+  {
+    "day": 1,
+    "growth_rate": "12.00",
+    "hours": 11,
+    "minutes": 45,
+    "population": 112,
+    "resources": 1988,
+    "tick": 47
+  },
+  {
+    "day": 1,
+    "growth_rate": "12.00",
+    "hours": 12,
+    "minutes": 0,
+    "population": 112,
+    "resources": 1988,
+    "tick": 48
+  },
+  {
+    "day": 1,
+    "growth_rate": "12.00",
+    "hours": 12,
+    "minutes": 15,
+    "population": 112,
+    "resources": 1988,
+    "tick": 49
+  },
+  {
+    "day": 1,
+    "growth_rate": "12.00",
+    "hours": 12,
+    "minutes": 30,
+    "population": 112,
+    "resources": 1988,
+    "tick": 50
+  },
+  {
+    "day": 1,
+    "growth_rate": "12.00",
+    "hours": 12,
+    "minutes": 45,
+    "population": 112,
+    "resources": 1988,
+    "tick": 51
+  },
+  {
+    "day": 1,
+    "growth_rate": "42.00",
+    "hours": 13,
+    "minutes": 0,
+    "population": 142,
+    "resources": 2279,
+    "tick": 52
+  },
+  {
+    "day": 1,
+    "growth_rate": "42.00",
+    "hours": 13,
+    "minutes": 15,
+    "population": 142,
+    "resources": 2279,
+    "tick": 53
+  },
+  {
+    "day": 1,
+    "growth_rate": "42.00",
+    "hours": 13,
+    "minutes": 30,
+    "population": 142,
+    "resources": 2279,
+    "tick": 54
+  },
+  {
+    "day": 1,
+    "growth_rate": "42.00",
+    "hours": 13,
+    "minutes": 45,
+    "population": 142,
+    "resources": 2279,
+    "tick": 55
+  },
+  {
+    "day": 1,
+    "growth_rate": "42.00",
+    "hours": 14,
+    "minutes": 0,
+    "population": 142,
+    "resources": 2279,
+    "tick": 56
+  },
+  {
+    "day": 1,
+    "growth_rate": "42.00",
+    "hours": 14,
+    "minutes": 15,
+    "population": 142,
+    "resources": 2279,
+    "tick": 57
+  },
+  {
+    "day": 1,
+    "growth_rate": "42.00",
+    "hours": 14,
+    "minutes": 30,
+    "population": 142,
+    "resources": 2279,
+    "tick": 58
+  },
+  {
+    "day": 1,
+    "growth_rate": "42.00",
+    "hours": 14,
+    "minutes": 45,
+    "population": 142,
+    "resources": 2279,
+    "tick": 59
+  },
+  {
+    "day": 1,
+    "growth_rate": "32.00",
+    "hours": 15,
+    "minutes": 0,
+    "population": 132,
+    "resources": 2203,
+    "tick": 60
+  },
+  {
+    "day": 1,
+    "growth_rate": "32.00",
+    "hours": 15,
+    "minutes": 15,
+    "population": 132,
+    "resources": 2203,
+    "tick": 61
+  },
+  {
+    "day": 1,
+    "growth_rate": "32.00",
+    "hours": 15,
+    "minutes": 30,
+    "population": 132,
+    "resources": 2203,
+    "tick": 62
+  },
+  {
+    "day": 1,
+    "growth_rate": "32.00",
+    "hours": 15,
+    "minutes": 45,
+    "population": 132,
+    "resources": 2203,
+    "tick": 63
+  },
+  {
+    "day": 1,
+    "growth_rate": "32.00",
+    "hours": 16,
+    "minutes": 0,
+    "population": 132,
+    "resources": 2203,
+    "tick": 64
+  },
+  {
+    "day": 1,
+    "growth_rate": "32.00",
+    "hours": 16,
+    "minutes": 15,
+    "population": 132,
+    "resources": 2203,
+    "tick": 65
+  },
+  {
+    "day": 1,
+    "growth_rate": "32.00",
+    "hours": 16,
+    "minutes": 30,
+    "population": 132,
+    "resources": 2203,
+    "tick": 66
+  },
+  {
+    "day": 1,
+    "growth_rate": "32.00",
+    "hours": 16,
+    "minutes": 45,
+    "population": 132,
+    "resources": 2203,
+    "tick": 67
+  },
+  {
+    "day": 1,
+    "growth_rate": "10.00",
+    "hours": 17,
+    "minutes": 0,
+    "population": 110,
+    "resources": 1888,
+    "tick": 68
+  },
+  {
+    "day": 1,
+    "growth_rate": "10.00",
+    "hours": 17,
+    "minutes": 15,
+    "population": 110,
+    "resources": 1888,
+    "tick": 69
+  },
+  {
+    "day": 1,
+    "growth_rate": "10.00",
+    "hours": 17,
+    "minutes": 30,
+    "population": 110,
+    "resources": 1888,
+    "tick": 70
+  },
+  {
+    "day": 1,
+    "growth_rate": "10.00",
+    "hours": 17,
+    "minutes": 45,
+    "population": 110,
+    "resources": 1888,
+    "tick": 71
+  },
+  {
+    "day": 1,
+    "growth_rate": "10.00",
+    "hours": 18,
+    "minutes": 0,
+    "population": 110,
+    "resources": 1888,
+    "tick": 72
+  },
+  {
+    "day": 1,
+    "growth_rate": "10.00",
+    "hours": 18,
+    "minutes": 15,
+    "population": 110,
+    "resources": 1888,
+    "tick": 73
+  },
+  {
+    "day": 1,
+    "growth_rate": "10.00",
+    "hours": 18,
+    "minutes": 30,
+    "population": 110,
+    "resources": 1888,
+    "tick": 74
+  },
+  {
+    "day": 1,
+    "growth_rate": "10.00",
+    "hours": 18,
+    "minutes": 45,
+    "population": 110,
+    "resources": 1888,
+    "tick": 75
+  },
+  {
+    "day": 1,
+    "growth_rate": "0.00",
+    "hours": 19,
+    "minutes": 0,
+    "population": 100,
+    "resources": 1730,
+    "tick": 76
+  },
+  {
+    "day": 1,
+    "growth_rate": "0.00",
+    "hours": 19,
+    "minutes": 15,
+    "population": 100,
+    "resources": 1730,
+    "tick": 77
+  },
+  {
+    "day": 1,
+    "growth_rate": "0.00",
+    "hours": 19,
+    "minutes": 30,
+    "population": 100,
+    "resources": 1730,
+    "tick": 78
+  },
+  {
+    "day": 1,
+    "growth_rate": "0.00",
+    "hours": 19,
+    "minutes": 45,
+    "population": 100,
+    "resources": 1730,
+    "tick": 79
+  },
+  {
+    "day": 1,
+    "growth_rate": "0.00",
+    "hours": 20,
+    "minutes": 0,
+    "population": 100,
+    "resources": 1730,
+    "tick": 80
+  },
+  {
+    "day": 1,
+    "growth_rate": "0.00",
+    "hours": 20,
+    "minutes": 15,
+    "population": 100,
+    "resources": 1730,
+    "tick": 81
+  },
+  {
+    "day": 1,
+    "growth_rate": "0.00",
+    "hours": 20,
+    "minutes": 30,
+    "population": 100,
+    "resources": 1730,
+    "tick": 82
+  },
+  {
+    "day": 1,
+    "growth_rate": "0.00",
+    "hours": 20,
+    "minutes": 45,
+    "population": 100,
+    "resources": 1730,
+    "tick": 83
+  },
+  {
+    "day": 1,
+    "growth_rate": "9.00",
+    "hours": 21,
+    "minutes": 0,
+    "population": 109,
+    "resources": 1761,
+    "tick": 84
+  },
+  {
+    "day": 1,
+    "growth_rate": "9.00",
+    "hours": 21,
+    "minutes": 15,
+    "population": 109,
+    "resources": 1761,
+    "tick": 85
+  },
+  {
+    "day": 1,
+    "growth_rate": "9.00",
+    "hours": 21,
+    "minutes": 30,
+    "population": 109,
+    "resources": 1761,
+    "tick": 86
+  },
+  {
+    "day": 1,
+    "growth_rate": "9.00",
+    "hours": 21,
+    "minutes": 45,
+    "population": 109,
+    "resources": 1761,
+    "tick": 87
+  },
+  {
+    "day": 1,
+    "growth_rate": "9.00",
+    "hours": 22,
+    "minutes": 0,
+    "population": 109,
+    "resources": 1761,
+    "tick": 88
+  },
+  {
+    "day": 1,
+    "growth_rate": "9.00",
+    "hours": 22,
+    "minutes": 15,
+    "population": 109,
+    "resources": 1761,
+    "tick": 89
+  },
+  {
+    "day": 1,
+    "growth_rate": "9.00",
+    "hours": 22,
+    "minutes": 30,
+    "population": 109,
+    "resources": 1761,
+    "tick": 90
+  },
+  {
+    "day": 1,
+    "growth_rate": "9.00",
+    "hours": 22,
+    "minutes": 45,
+    "population": 109,
+    "resources": 1761,
+    "tick": 91
+  },
+  {
+    "day": 1,
+    "growth_rate": "27.00",
+    "hours": 23,
+    "minutes": 0,
+    "population": 127,
+    "resources": 1823,
+    "tick": 92
+  },
+  {
+    "day": 1,
+    "growth_rate": "27.00",
+    "hours": 23,
+    "minutes": 15,
+    "population": 127,
+    "resources": 1823,
+    "tick": 93
+  },
+  {
+    "day": 1,
+    "growth_rate": "27.00",
+    "hours": 23,
+    "minutes": 30,
+    "population": 127,
+    "resources": 1823,
+    "tick": 94
+  },
+  {
+    "day": 1,
+    "growth_rate": "27.00",
+    "hours": 23,
+    "minutes": 45,
+    "population": 127,
+    "resources": 1823,
+    "tick": 95
+  },
+  {
+    "day": 2,
+    "growth_rate": "27.00",
+    "hours": 0,
+    "minutes": 0,
+    "population": 127,
+    "resources": 1823,
+    "tick": 0
+  },
+  {
+    "day": 2,
+    "growth_rate": "27.00",
+    "hours": 0,
+    "minutes": 15,
+    "population": 127,
+    "resources": 1823,
+    "tick": 1
+  },
+  {
+    "day": 2,
+    "growth_rate": "27.00",
+    "hours": 0,
+    "minutes": 30,
+    "population": 127,
+    "resources": 1823,
+    "tick": 2
+  },
+  {
+    "day": 2,
+    "growth_rate": "27.00",
+    "hours": 0,
+    "minutes": 45,
+    "population": 127,
+    "resources": 1823,
+    "tick": 3
+  },
+  {
+    "day": 2,
+    "growth_rate": "24.00",
+    "hours": 1,
+    "minutes": 0,
+    "population": 124,
+    "resources": 1595,
+    "tick": 4
+  },
+  {
+    "day": 2,
+    "growth_rate": "24.00",
+    "hours": 1,
+    "minutes": 15,
+    "population": 124,
+    "resources": 1595,
+    "tick": 5
+  },
+  {
+    "day": 2,
+    "growth_rate": "24.00",
+    "hours": 1,
+    "minutes": 30,
+    "population": 124,
+    "resources": 1595,
+    "tick": 6
+  },
+  {
+    "day": 2,
+    "growth_rate": "24.00",
+    "hours": 1,
+    "minutes": 45,
+    "population": 124,
+    "resources": 1595,
+    "tick": 7
+  },
+  {
+    "day": 2,
+    "growth_rate": "24.00",
+    "hours": 2,
+    "minutes": 0,
+    "population": 124,
+    "resources": 1595,
+    "tick": 8
+  },
+  {
+    "day": 2,
+    "growth_rate": "24.00",
+    "hours": 2,
+    "minutes": 15,
+    "population": 124,
+    "resources": 1595,
+    "tick": 9
+  },
+  {
+    "day": 2,
+    "growth_rate": "24.00",
+    "hours": 2,
+    "minutes": 30,
+    "population": 124,
+    "resources": 1595,
+    "tick": 10
+  },
+  {
+    "day": 2,
+    "growth_rate": "24.00",
+    "hours": 2,
+    "minutes": 45,
+    "population": 124,
+    "resources": 1595,
+    "tick": 11
+  },
+  {
+    "day": 2,
+    "growth_rate": "1.00",
+    "hours": 3,
+    "minutes": 0,
+    "population": 101,
+    "resources": 1424,
+    "tick": 12
+  },
+  {
+    "day": 2,
+    "growth_rate": "1.00",
+    "hours": 3,
+    "minutes": 15,
+    "population": 101,
+    "resources": 1424,
+    "tick": 13
+  },
+  {
+    "day": 2,
+    "growth_rate": "1.00",
+    "hours": 3,
+    "minutes": 30,
+    "population": 101,
+    "resources": 1424,
+    "tick": 14
+  },
+  {
+    "day": 2,
+    "growth_rate": "1.00",
+    "hours": 3,
+    "minutes": 45,
+    "population": 101,
+    "resources": 1424,
+    "tick": 15
+  },
+  {
+    "day": 2,
+    "growth_rate": "1.00",
+    "hours": 4,
+    "minutes": 0,
+    "population": 101,
+    "resources": 1424,
+    "tick": 16
+  },
+  {
+    "day": 2,
+    "growth_rate": "1.00",
+    "hours": 4,
+    "minutes": 15,
+    "population": 101,
+    "resources": 1424,
+    "tick": 17
+  },
+  {
+    "day": 2,
+    "growth_rate": "1.00",
+    "hours": 4,
+    "minutes": 30,
+    "population": 101,
+    "resources": 1424,
+    "tick": 18
+  },
+  {
+    "day": 2,
+    "growth_rate": "1.00",
+    "hours": 4,
+    "minutes": 45,
+    "population": 101,
+    "resources": 1424,
+    "tick": 19
+  },
+  {
+    "day": 2,
+    "growth_rate": "-13.00",
+    "hours": 5,
+    "minutes": 0,
+    "population": 87,
+    "resources": 1306,
+    "tick": 20
+  },
+  {
+    "day": 2,
+    "growth_rate": "-13.00",
+    "hours": 5,
+    "minutes": 15,
+    "population": 87,
+    "resources": 1306,
+    "tick": 21
+  },
+  {
+    "day": 2,
+    "growth_rate": "-13.00",
+    "hours": 5,
+    "minutes": 30,
+    "population": 87,
+    "resources": 1306,
+    "tick": 22
+  },
+  {
+    "day": 2,
+    "growth_rate": "-13.00",
+    "hours": 5,
+    "minutes": 45,
+    "population": 87,
+    "resources": 1306,
+    "tick": 23
+  },
+  {
+    "day": 2,
+    "growth_rate": "-13.00",
+    "hours": 6,
+    "minutes": 0,
+    "population": 87,
+    "resources": 1306,
+    "tick": 24
+  },
+  {
+    "day": 2,
+    "growth_rate": "-13.00",
+    "hours": 6,
+    "minutes": 15,
+    "population": 87,
+    "resources": 1306,
+    "tick": 25
+  },
+  {
+    "day": 2,
+    "growth_rate": "-13.00",
+    "hours": 6,
+    "minutes": 30,
+    "population": 87,
+    "resources": 1306,
+    "tick": 26
+  },
+  {
+    "day": 2,
+    "growth_rate": "-13.00",
+    "hours": 6,
+    "minutes": 45,
+    "population": 87,
+    "resources": 1306,
+    "tick": 27
+  },
+  {
+    "day": 2,
+    "growth_rate": "-16.00",
+    "hours": 7,
+    "minutes": 0,
+    "population": 84,
+    "resources": 1147,
+    "tick": 28
+  },
+  {
+    "day": 2,
+    "growth_rate": "-16.00",
+    "hours": 7,
+    "minutes": 15,
+    "population": 84,
+    "resources": 1147,
+    "tick": 29
+  },
+  {
+    "day": 2,
+    "growth_rate": "-16.00",
+    "hours": 7,
+    "minutes": 30,
+    "population": 84,
+    "resources": 1147,
+    "tick": 30
+  },
+  {
+    "day": 2,
+    "growth_rate": "-16.00",
+    "hours": 7,
+    "minutes": 45,
+    "population": 84,
+    "resources": 1147,
+    "tick": 31
+  },
+  {
+    "day": 2,
+    "growth_rate": "-16.00",
+    "hours": 8,
+    "minutes": 0,
+    "population": 84,
+    "resources": 1147,
+    "tick": 32
+  },
+  {
+    "day": 2,
+    "growth_rate": "-16.00",
+    "hours": 8,
+    "minutes": 15,
+    "population": 84,
+    "resources": 1147,
+    "tick": 33
+  },
+  {
+    "day": 2,
+    "growth_rate": "-16.00",
+    "hours": 8,
+    "minutes": 30,
+    "population": 84,
+    "resources": 1147,
+    "tick": 34
+  },
+  {
+    "day": 2,
+    "growth_rate": "-16.00",
+    "hours": 8,
+    "minutes": 45,
+    "population": 84,
+    "resources": 1147,
+    "tick": 35
+  },
+  {
+    "day": 2,
+    "growth_rate": "-35.00",
+    "hours": 9,
+    "minutes": 0,
+    "population": 65,
+    "resources": 987,
+    "tick": 36
+  },
+  {
+    "day": 2,
+    "growth_rate": "-35.00",
+    "hours": 9,
+    "minutes": 15,
+    "population": 65,
+    "resources": 987,
+    "tick": 37
+  },
+  {
+    "day": 2,
+    "growth_rate": "-35.00",
+    "hours": 9,
+    "minutes": 30,
+    "population": 65,
+    "resources": 987,
+    "tick": 38
+  },
+  {
+    "day": 2,
+    "growth_rate": "-35.00",
+    "hours": 9,
+    "minutes": 45,
+    "population": 65,
+    "resources": 987,
+    "tick": 39
+  },
+  {
+    "day": 2,
+    "growth_rate": "-35.00",
+    "hours": 10,
+    "minutes": 0,
+    "population": 65,
+    "resources": 987,
+    "tick": 40
+  },
+  {
+    "day": 2,
+    "growth_rate": "-35.00",
+    "hours": 10,
+    "minutes": 15,
+    "population": 65,
+    "resources": 987,
+    "tick": 41
+  },
+  {
+    "day": 2,
+    "growth_rate": "-35.00",
+    "hours": 10,
+    "minutes": 30,
+    "population": 65,
+    "resources": 987,
+    "tick": 42
+  },
+  {
+    "day": 2,
+    "growth_rate": "-35.00",
+    "hours": 10,
+    "minutes": 45,
+    "population": 65,
+    "resources": 987,
+    "tick": 43
+  },
+  {
+    "day": 2,
+    "growth_rate": "-23.00",
+    "hours": 11,
+    "minutes": 0,
+    "population": 77,
+    "resources": 1235,
+    "tick": 44
+  },
+  {
+    "day": 2,
+    "growth_rate": "-23.00",
+    "hours": 11,
+    "minutes": 15,
+    "population": 77,
+    "resources": 1235,
+    "tick": 45
+  },
+  {
+    "day": 2,
+    "growth_rate": "-23.00",
+    "hours": 11,
+    "minutes": 30,
+    "population": 77,
+    "resources": 1235,
+    "tick": 46
+  },
+  {
+    "day": 2,
+    "growth_rate": "-23.00",
+    "hours": 11,
+    "minutes": 45,
+    "population": 77,
+    "resources": 1235,
+    "tick": 47
+  },
+  {
+    "day": 2,
+    "growth_rate": "-23.00",
+    "hours": 12,
+    "minutes": 0,
+    "population": 77,
+    "resources": 1235,
+    "tick": 48
+  },
+  {
+    "day": 2,
+    "growth_rate": "-23.00",
+    "hours": 12,
+    "minutes": 15,
+    "population": 77,
+    "resources": 1235,
+    "tick": 49
+  },
+  {
+    "day": 2,
+    "growth_rate": "-23.00",
+    "hours": 12,
+    "minutes": 30,
+    "population": 77,
+    "resources": 1235,
+    "tick": 50
+  },
+  {
+    "day": 2,
+    "growth_rate": "-23.00",
+    "hours": 12,
+    "minutes": 45,
+    "population": 77,
+    "resources": 1235,
+    "tick": 51
+  },
+  {
+    "day": 2,
+    "growth_rate": "-37.00",
+    "hours": 13,
+    "minutes": 0,
+    "population": 63,
+    "resources": 937,
+    "tick": 52
+  },
+  {
+    "day": 2,
+    "growth_rate": "-37.00",
+    "hours": 13,
+    "minutes": 15,
+    "population": 63,
+    "resources": 937,
+    "tick": 53
+  },
+  {
+    "day": 2,
+    "growth_rate": "-37.00",
+    "hours": 13,
+    "minutes": 30,
+    "population": 63,
+    "resources": 937,
+    "tick": 54
+  },
+  {
+    "day": 2,
+    "growth_rate": "-37.00",
+    "hours": 13,
+    "minutes": 45,
+    "population": 63,
+    "resources": 937,
+    "tick": 55
+  },
+  {
+    "day": 2,
+    "growth_rate": "-37.00",
+    "hours": 14,
+    "minutes": 0,
+    "population": 63,
+    "resources": 937,
+    "tick": 56
+  },
+  {
+    "day": 2,
+    "growth_rate": "-37.00",
+    "hours": 14,
+    "minutes": 15,
+    "population": 63,
+    "resources": 937,
+    "tick": 57
+  },
+  {
+    "day": 2,
+    "growth_rate": "-37.00",
+    "hours": 14,
+    "minutes": 30,
+    "population": 63,
+    "resources": 937,
+    "tick": 58
+  },
+  {
+    "day": 2,
+    "growth_rate": "-37.00",
+    "hours": 14,
+    "minutes": 45,
+    "population": 63,
+    "resources": 937,
+    "tick": 59
+  },
+  {
+    "day": 2,
+    "growth_rate": "-36.00",
+    "hours": 15,
+    "minutes": 0,
+    "population": 64,
+    "resources": 1173,
+    "tick": 60
+  },
+  {
+    "day": 2,
+    "growth_rate": "-36.00",
+    "hours": 15,
+    "minutes": 15,
+    "population": 64,
+    "resources": 1173,
+    "tick": 61
+  },
+  {
+    "day": 2,
+    "growth_rate": "-36.00",
+    "hours": 15,
+    "minutes": 30,
+    "population": 64,
+    "resources": 1173,
+    "tick": 62
+  },
+  {
+    "day": 2,
+    "growth_rate": "-36.00",
+    "hours": 15,
+    "minutes": 45,
+    "population": 64,
+    "resources": 1173,
+    "tick": 63
+  },
+  {
+    "day": 2,
+    "growth_rate": "-36.00",
+    "hours": 16,
+    "minutes": 0,
+    "population": 64,
+    "resources": 1173,
+    "tick": 64
+  },
+  {
+    "day": 2,
+    "growth_rate": "-36.00",
+    "hours": 16,
+    "minutes": 15,
+    "population": 64,
+    "resources": 1173,
+    "tick": 65
+  },
+  {
+    "day": 2,
+    "growth_rate": "-36.00",
+    "hours": 16,
+    "minutes": 30,
+    "population": 64,
+    "resources": 1173,
+    "tick": 66
+  },
+  {
+    "day": 2,
+    "growth_rate": "-36.00",
+    "hours": 16,
+    "minutes": 45,
+    "population": 64,
+    "resources": 1173,
+    "tick": 67
+  },
+  {
+    "day": 2,
+    "growth_rate": "-43.00",
+    "hours": 17,
+    "minutes": 0,
+    "population": 57,
+    "resources": 958,
+    "tick": 68
+  },
+  {
+    "day": 2,
+    "growth_rate": "-43.00",
+    "hours": 17,
+    "minutes": 15,
+    "population": 57,
+    "resources": 958,
+    "tick": 69
+  },
+  {
+    "day": 2,
+    "growth_rate": "-43.00",
+    "hours": 17,
+    "minutes": 30,
+    "population": 57,
+    "resources": 958,
+    "tick": 70
+  },
+  {
+    "day": 2,
+    "growth_rate": "-43.00",
+    "hours": 17,
+    "minutes": 45,
+    "population": 57,
+    "resources": 958,
+    "tick": 71
+  },
+  {
+    "day": 2,
+    "growth_rate": "-43.00",
+    "hours": 18,
+    "minutes": 0,
+    "population": 57,
+    "resources": 958,
+    "tick": 72
+  },
+  {
+    "day": 2,
+    "growth_rate": "-43.00",
+    "hours": 18,
+    "minutes": 15,
+    "population": 57,
+    "resources": 958,
+    "tick": 73
+  },
+  {
+    "day": 2,
+    "growth_rate": "-43.00",
+    "hours": 18,
+    "minutes": 30,
+    "population": 57,
+    "resources": 958,
+    "tick": 74
+  },
+  {
+    "day": 2,
+    "growth_rate": "-43.00",
+    "hours": 18,
+    "minutes": 45,
+    "population": 57,
+    "resources": 958,
+    "tick": 75
+  },
+  {
+    "day": 2,
+    "growth_rate": "-52.00",
+    "hours": 19,
+    "minutes": 0,
+    "population": 48,
+    "resources": 928,
+    "tick": 76
+  },
+  {
+    "day": 2,
+    "growth_rate": "-52.00",
+    "hours": 19,
+    "minutes": 15,
+    "population": 48,
+    "resources": 928,
+    "tick": 77
+  },
+  {
+    "day": 2,
+    "growth_rate": "-52.00",
+    "hours": 19,
+    "minutes": 30,
+    "population": 48,
+    "resources": 928,
+    "tick": 78
+  },
+  {
+    "day": 2,
+    "growth_rate": "-52.00",
+    "hours": 19,
+    "minutes": 45,
+    "population": 48,
+    "resources": 928,
+    "tick": 79
+  },
+  {
+    "day": 2,
+    "growth_rate": "-52.00",
+    "hours": 20,
+    "minutes": 0,
+    "population": 48,
+    "resources": 928,
+    "tick": 80
+  },
+  {
+    "day": 2,
+    "growth_rate": "-52.00",
+    "hours": 20,
+    "minutes": 15,
+    "population": 48,
+    "resources": 928,
+    "tick": 81
+  },
+  {
+    "day": 2,
+    "growth_rate": "-52.00",
+    "hours": 20,
+    "minutes": 30,
+    "population": 48,
+    "resources": 928,
+    "tick": 82
+  },
+  {
+    "day": 2,
+    "growth_rate": "-52.00",
+    "hours": 20,
+    "minutes": 45,
+    "population": 48,
+    "resources": 928,
+    "tick": 83
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 21,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1125,
+    "tick": 84
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 21,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1125,
+    "tick": 85
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 21,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1125,
+    "tick": 86
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 21,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1125,
+    "tick": 87
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 22,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1125,
+    "tick": 88
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 22,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1125,
+    "tick": 89
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 22,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1125,
+    "tick": 90
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 22,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1125,
+    "tick": 91
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 23,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1302,
+    "tick": 92
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 23,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1302,
+    "tick": 93
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 23,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1302,
+    "tick": 94
+  },
+  {
+    "day": 2,
+    "growth_rate": "-44.00",
+    "hours": 23,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1302,
+    "tick": 95
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 0,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1302,
+    "tick": 0
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 0,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1302,
+    "tick": 1
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 0,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1302,
+    "tick": 2
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 0,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1302,
+    "tick": 3
+  },
+  {
+    "day": 3,
+    "growth_rate": "-31.00",
+    "hours": 1,
+    "minutes": 0,
+    "population": 69,
+    "resources": 1379,
+    "tick": 4
+  },
+  {
+    "day": 3,
+    "growth_rate": "-31.00",
+    "hours": 1,
+    "minutes": 15,
+    "population": 69,
+    "resources": 1379,
+    "tick": 5
+  },
+  {
+    "day": 3,
+    "growth_rate": "-31.00",
+    "hours": 1,
+    "minutes": 30,
+    "population": 69,
+    "resources": 1379,
+    "tick": 6
+  },
+  {
+    "day": 3,
+    "growth_rate": "-31.00",
+    "hours": 1,
+    "minutes": 45,
+    "population": 69,
+    "resources": 1379,
+    "tick": 7
+  },
+  {
+    "day": 3,
+    "growth_rate": "-31.00",
+    "hours": 2,
+    "minutes": 0,
+    "population": 69,
+    "resources": 1379,
+    "tick": 8
+  },
+  {
+    "day": 3,
+    "growth_rate": "-31.00",
+    "hours": 2,
+    "minutes": 15,
+    "population": 69,
+    "resources": 1379,
+    "tick": 9
+  },
+  {
+    "day": 3,
+    "growth_rate": "-31.00",
+    "hours": 2,
+    "minutes": 30,
+    "population": 69,
+    "resources": 1379,
+    "tick": 10
+  },
+  {
+    "day": 3,
+    "growth_rate": "-31.00",
+    "hours": 2,
+    "minutes": 45,
+    "population": 69,
+    "resources": 1379,
+    "tick": 11
+  },
+  {
+    "day": 3,
+    "growth_rate": "-40.00",
+    "hours": 3,
+    "minutes": 0,
+    "population": 60,
+    "resources": 1263,
+    "tick": 12
+  },
+  {
+    "day": 3,
+    "growth_rate": "-40.00",
+    "hours": 3,
+    "minutes": 15,
+    "population": 60,
+    "resources": 1263,
+    "tick": 13
+  },
+  {
+    "day": 3,
+    "growth_rate": "-40.00",
+    "hours": 3,
+    "minutes": 30,
+    "population": 60,
+    "resources": 1263,
+    "tick": 14
+  },
+  {
+    "day": 3,
+    "growth_rate": "-40.00",
+    "hours": 3,
+    "minutes": 45,
+    "population": 60,
+    "resources": 1263,
+    "tick": 15
+  },
+  {
+    "day": 3,
+    "growth_rate": "-40.00",
+    "hours": 4,
+    "minutes": 0,
+    "population": 60,
+    "resources": 1263,
+    "tick": 16
+  },
+  {
+    "day": 3,
+    "growth_rate": "-40.00",
+    "hours": 4,
+    "minutes": 15,
+    "population": 60,
+    "resources": 1263,
+    "tick": 17
+  },
+  {
+    "day": 3,
+    "growth_rate": "-40.00",
+    "hours": 4,
+    "minutes": 30,
+    "population": 60,
+    "resources": 1263,
+    "tick": 18
+  },
+  {
+    "day": 3,
+    "growth_rate": "-40.00",
+    "hours": 4,
+    "minutes": 45,
+    "population": 60,
+    "resources": 1263,
+    "tick": 19
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 5,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1096,
+    "tick": 20
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 5,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1096,
+    "tick": 21
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 5,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1096,
+    "tick": 22
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 5,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1096,
+    "tick": 23
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 6,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1096,
+    "tick": 24
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 6,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1096,
+    "tick": 25
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 6,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1096,
+    "tick": 26
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 6,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1096,
+    "tick": 27
+  },
+  {
+    "day": 3,
+    "growth_rate": "-29.00",
+    "hours": 7,
+    "minutes": 0,
+    "population": 71,
+    "resources": 1412,
+    "tick": 28
+  },
+  {
+    "day": 3,
+    "growth_rate": "-29.00",
+    "hours": 7,
+    "minutes": 15,
+    "population": 71,
+    "resources": 1412,
+    "tick": 29
+  },
+  {
+    "day": 3,
+    "growth_rate": "-29.00",
+    "hours": 7,
+    "minutes": 30,
+    "population": 71,
+    "resources": 1412,
+    "tick": 30
+  },
+  {
+    "day": 3,
+    "growth_rate": "-29.00",
+    "hours": 7,
+    "minutes": 45,
+    "population": 71,
+    "resources": 1412,
+    "tick": 31
+  },
+  {
+    "day": 3,
+    "growth_rate": "-29.00",
+    "hours": 8,
+    "minutes": 0,
+    "population": 71,
+    "resources": 1412,
+    "tick": 32
+  },
+  {
+    "day": 3,
+    "growth_rate": "-29.00",
+    "hours": 8,
+    "minutes": 15,
+    "population": 71,
+    "resources": 1412,
+    "tick": 33
+  },
+  {
+    "day": 3,
+    "growth_rate": "-29.00",
+    "hours": 8,
+    "minutes": 30,
+    "population": 71,
+    "resources": 1412,
+    "tick": 34
+  },
+  {
+    "day": 3,
+    "growth_rate": "-29.00",
+    "hours": 8,
+    "minutes": 45,
+    "population": 71,
+    "resources": 1412,
+    "tick": 35
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 9,
+    "minutes": 0,
+    "population": 65,
+    "resources": 1063,
+    "tick": 36
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 9,
+    "minutes": 15,
+    "population": 65,
+    "resources": 1063,
+    "tick": 37
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 9,
+    "minutes": 30,
+    "population": 65,
+    "resources": 1063,
+    "tick": 38
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 9,
+    "minutes": 45,
+    "population": 65,
+    "resources": 1063,
+    "tick": 39
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 10,
+    "minutes": 0,
+    "population": 65,
+    "resources": 1063,
+    "tick": 40
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 10,
+    "minutes": 15,
+    "population": 65,
+    "resources": 1063,
+    "tick": 41
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 10,
+    "minutes": 30,
+    "population": 65,
+    "resources": 1063,
+    "tick": 42
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 10,
+    "minutes": 45,
+    "population": 65,
+    "resources": 1063,
+    "tick": 43
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 11,
+    "minutes": 0,
+    "population": 65,
+    "resources": 1085,
+    "tick": 44
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 11,
+    "minutes": 15,
+    "population": 65,
+    "resources": 1085,
+    "tick": 45
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 11,
+    "minutes": 30,
+    "population": 65,
+    "resources": 1085,
+    "tick": 46
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 11,
+    "minutes": 45,
+    "population": 65,
+    "resources": 1085,
+    "tick": 47
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 12,
+    "minutes": 0,
+    "population": 65,
+    "resources": 1085,
+    "tick": 48
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 12,
+    "minutes": 15,
+    "population": 65,
+    "resources": 1085,
+    "tick": 49
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 12,
+    "minutes": 30,
+    "population": 65,
+    "resources": 1085,
+    "tick": 50
+  },
+  {
+    "day": 3,
+    "growth_rate": "-35.00",
+    "hours": 12,
+    "minutes": 45,
+    "population": 65,
+    "resources": 1085,
+    "tick": 51
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 13,
+    "minutes": 0,
+    "population": 56,
+    "resources": 899,
+    "tick": 52
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 13,
+    "minutes": 15,
+    "population": 56,
+    "resources": 899,
+    "tick": 53
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 13,
+    "minutes": 30,
+    "population": 56,
+    "resources": 899,
+    "tick": 54
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 13,
+    "minutes": 45,
+    "population": 56,
+    "resources": 899,
+    "tick": 55
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 14,
+    "minutes": 0,
+    "population": 56,
+    "resources": 899,
+    "tick": 56
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 14,
+    "minutes": 15,
+    "population": 56,
+    "resources": 899,
+    "tick": 57
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 14,
+    "minutes": 30,
+    "population": 56,
+    "resources": 899,
+    "tick": 58
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 14,
+    "minutes": 45,
+    "population": 56,
+    "resources": 899,
+    "tick": 59
+  },
+  {
+    "day": 3,
+    "growth_rate": "-54.00",
+    "hours": 15,
+    "minutes": 0,
+    "population": 46,
+    "resources": 863,
+    "tick": 60
+  },
+  {
+    "day": 3,
+    "growth_rate": "-54.00",
+    "hours": 15,
+    "minutes": 15,
+    "population": 46,
+    "resources": 863,
+    "tick": 61
+  },
+  {
+    "day": 3,
+    "growth_rate": "-54.00",
+    "hours": 15,
+    "minutes": 30,
+    "population": 46,
+    "resources": 863,
+    "tick": 62
+  },
+  {
+    "day": 3,
+    "growth_rate": "-54.00",
+    "hours": 15,
+    "minutes": 45,
+    "population": 46,
+    "resources": 863,
+    "tick": 63
+  },
+  {
+    "day": 3,
+    "growth_rate": "-54.00",
+    "hours": 16,
+    "minutes": 0,
+    "population": 46,
+    "resources": 863,
+    "tick": 64
+  },
+  {
+    "day": 3,
+    "growth_rate": "-54.00",
+    "hours": 16,
+    "minutes": 15,
+    "population": 46,
+    "resources": 863,
+    "tick": 65
+  },
+  {
+    "day": 3,
+    "growth_rate": "-54.00",
+    "hours": 16,
+    "minutes": 30,
+    "population": 46,
+    "resources": 863,
+    "tick": 66
+  },
+  {
+    "day": 3,
+    "growth_rate": "-54.00",
+    "hours": 16,
+    "minutes": 45,
+    "population": 46,
+    "resources": 863,
+    "tick": 67
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 17,
+    "minutes": 0,
+    "population": 55,
+    "resources": 1056,
+    "tick": 68
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 17,
+    "minutes": 15,
+    "population": 55,
+    "resources": 1056,
+    "tick": 69
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 17,
+    "minutes": 30,
+    "population": 55,
+    "resources": 1056,
+    "tick": 70
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 17,
+    "minutes": 45,
+    "population": 55,
+    "resources": 1056,
+    "tick": 71
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 18,
+    "minutes": 0,
+    "population": 55,
+    "resources": 1056,
+    "tick": 72
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 18,
+    "minutes": 15,
+    "population": 55,
+    "resources": 1056,
+    "tick": 73
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 18,
+    "minutes": 30,
+    "population": 55,
+    "resources": 1056,
+    "tick": 74
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 18,
+    "minutes": 45,
+    "population": 55,
+    "resources": 1056,
+    "tick": 75
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 19,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1210,
+    "tick": 76
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 19,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1210,
+    "tick": 77
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 19,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1210,
+    "tick": 78
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 19,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1210,
+    "tick": 79
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 20,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1210,
+    "tick": 80
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 20,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1210,
+    "tick": 81
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 20,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1210,
+    "tick": 82
+  },
+  {
+    "day": 3,
+    "growth_rate": "-44.00",
+    "hours": 20,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1210,
+    "tick": 83
+  },
+  {
+    "day": 3,
+    "growth_rate": "-55.00",
+    "hours": 21,
+    "minutes": 0,
+    "population": 45,
+    "resources": 1123,
+    "tick": 84
+  },
+  {
+    "day": 3,
+    "growth_rate": "-55.00",
+    "hours": 21,
+    "minutes": 15,
+    "population": 45,
+    "resources": 1123,
+    "tick": 85
+  },
+  {
+    "day": 3,
+    "growth_rate": "-55.00",
+    "hours": 21,
+    "minutes": 30,
+    "population": 45,
+    "resources": 1123,
+    "tick": 86
+  },
+  {
+    "day": 3,
+    "growth_rate": "-55.00",
+    "hours": 21,
+    "minutes": 45,
+    "population": 45,
+    "resources": 1123,
+    "tick": 87
+  },
+  {
+    "day": 3,
+    "growth_rate": "-55.00",
+    "hours": 22,
+    "minutes": 0,
+    "population": 45,
+    "resources": 1123,
+    "tick": 88
+  },
+  {
+    "day": 3,
+    "growth_rate": "-55.00",
+    "hours": 22,
+    "minutes": 15,
+    "population": 45,
+    "resources": 1123,
+    "tick": 89
+  },
+  {
+    "day": 3,
+    "growth_rate": "-55.00",
+    "hours": 22,
+    "minutes": 30,
+    "population": 45,
+    "resources": 1123,
+    "tick": 90
+  },
+  {
+    "day": 3,
+    "growth_rate": "-55.00",
+    "hours": 22,
+    "minutes": 45,
+    "population": 45,
+    "resources": 1123,
+    "tick": 91
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 23,
+    "minutes": 0,
+    "population": 55,
+    "resources": 1322,
+    "tick": 92
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 23,
+    "minutes": 15,
+    "population": 55,
+    "resources": 1322,
+    "tick": 93
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 23,
+    "minutes": 30,
+    "population": 55,
+    "resources": 1322,
+    "tick": 94
+  },
+  {
+    "day": 3,
+    "growth_rate": "-45.00",
+    "hours": 23,
+    "minutes": 45,
+    "population": 55,
+    "resources": 1322,
+    "tick": 95
+  },
+  {
+    "day": 4,
+    "growth_rate": "-45.00",
+    "hours": 0,
+    "minutes": 0,
+    "population": 55,
+    "resources": 1322,
+    "tick": 0
+  },
+  {
+    "day": 4,
+    "growth_rate": "-45.00",
+    "hours": 0,
+    "minutes": 15,
+    "population": 55,
+    "resources": 1322,
+    "tick": 1
+  },
+  {
+    "day": 4,
+    "growth_rate": "-45.00",
+    "hours": 0,
+    "minutes": 30,
+    "population": 55,
+    "resources": 1322,
+    "tick": 2
+  },
+  {
+    "day": 4,
+    "growth_rate": "-45.00",
+    "hours": 0,
+    "minutes": 45,
+    "population": 55,
+    "resources": 1322,
+    "tick": 3
+  },
+  {
+    "day": 4,
+    "growth_rate": "-46.00",
+    "hours": 1,
+    "minutes": 0,
+    "population": 54,
+    "resources": 1244,
+    "tick": 4
+  },
+  {
+    "day": 4,
+    "growth_rate": "-46.00",
+    "hours": 1,
+    "minutes": 15,
+    "population": 54,
+    "resources": 1244,
+    "tick": 5
+  },
+  {
+    "day": 4,
+    "growth_rate": "-46.00",
+    "hours": 1,
+    "minutes": 30,
+    "population": 54,
+    "resources": 1244,
+    "tick": 6
+  },
+  {
+    "day": 4,
+    "growth_rate": "-46.00",
+    "hours": 1,
+    "minutes": 45,
+    "population": 54,
+    "resources": 1244,
+    "tick": 7
+  },
+  {
+    "day": 4,
+    "growth_rate": "-46.00",
+    "hours": 2,
+    "minutes": 0,
+    "population": 54,
+    "resources": 1244,
+    "tick": 8
+  },
+  {
+    "day": 4,
+    "growth_rate": "-46.00",
+    "hours": 2,
+    "minutes": 15,
+    "population": 54,
+    "resources": 1244,
+    "tick": 9
+  },
+  {
+    "day": 4,
+    "growth_rate": "-46.00",
+    "hours": 2,
+    "minutes": 30,
+    "population": 54,
+    "resources": 1244,
+    "tick": 10
+  },
+  {
+    "day": 4,
+    "growth_rate": "-46.00",
+    "hours": 2,
+    "minutes": 45,
+    "population": 54,
+    "resources": 1244,
+    "tick": 11
+  },
+  {
+    "day": 4,
+    "growth_rate": "-38.00",
+    "hours": 3,
+    "minutes": 0,
+    "population": 62,
+    "resources": 1607,
+    "tick": 12
+  },
+  {
+    "day": 4,
+    "growth_rate": "-38.00",
+    "hours": 3,
+    "minutes": 15,
+    "population": 62,
+    "resources": 1607,
+    "tick": 13
+  },
+  {
+    "day": 4,
+    "growth_rate": "-38.00",
+    "hours": 3,
+    "minutes": 30,
+    "population": 62,
+    "resources": 1607,
+    "tick": 14
+  },
+  {
+    "day": 4,
+    "growth_rate": "-38.00",
+    "hours": 3,
+    "minutes": 45,
+    "population": 62,
+    "resources": 1607,
+    "tick": 15
+  },
+  {
+    "day": 4,
+    "growth_rate": "-38.00",
+    "hours": 4,
+    "minutes": 0,
+    "population": 62,
+    "resources": 1607,
+    "tick": 16
+  },
+  {
+    "day": 4,
+    "growth_rate": "-38.00",
+    "hours": 4,
+    "minutes": 15,
+    "population": 62,
+    "resources": 1607,
+    "tick": 17
+  },
+  {
+    "day": 4,
+    "growth_rate": "-38.00",
+    "hours": 4,
+    "minutes": 30,
+    "population": 62,
+    "resources": 1607,
+    "tick": 18
+  },
+  {
+    "day": 4,
+    "growth_rate": "-38.00",
+    "hours": 4,
+    "minutes": 45,
+    "population": 62,
+    "resources": 1607,
+    "tick": 19
+  },
+  {
+    "day": 4,
+    "growth_rate": "-47.00",
+    "hours": 5,
+    "minutes": 0,
+    "population": 53,
+    "resources": 1596,
+    "tick": 20
+  },
+  {
+    "day": 4,
+    "growth_rate": "-47.00",
+    "hours": 5,
+    "minutes": 15,
+    "population": 53,
+    "resources": 1596,
+    "tick": 21
+  },
+  {
+    "day": 4,
+    "growth_rate": "-47.00",
+    "hours": 5,
+    "minutes": 30,
+    "population": 53,
+    "resources": 1596,
+    "tick": 22
+  },
+  {
+    "day": 4,
+    "growth_rate": "-47.00",
+    "hours": 5,
+    "minutes": 45,
+    "population": 53,
+    "resources": 1596,
+    "tick": 23
+  },
+  {
+    "day": 4,
+    "growth_rate": "-47.00",
+    "hours": 6,
+    "minutes": 0,
+    "population": 53,
+    "resources": 1596,
+    "tick": 24
+  },
+  {
+    "day": 4,
+    "growth_rate": "-47.00",
+    "hours": 6,
+    "minutes": 15,
+    "population": 53,
+    "resources": 1596,
+    "tick": 25
+  },
+  {
+    "day": 4,
+    "growth_rate": "-47.00",
+    "hours": 6,
+    "minutes": 30,
+    "population": 53,
+    "resources": 1596,
+    "tick": 26
+  },
+  {
+    "day": 4,
+    "growth_rate": "-47.00",
+    "hours": 6,
+    "minutes": 45,
+    "population": 53,
+    "resources": 1596,
+    "tick": 27
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 7,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1617,
+    "tick": 28
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 7,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1617,
+    "tick": 29
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 7,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1617,
+    "tick": 30
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 7,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1617,
+    "tick": 31
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 8,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1617,
+    "tick": 32
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 8,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1617,
+    "tick": 33
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 8,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1617,
+    "tick": 34
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 8,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1617,
+    "tick": 35
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 9,
+    "minutes": 0,
+    "population": 56,
+    "resources": 2053,
+    "tick": 36
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 9,
+    "minutes": 15,
+    "population": 56,
+    "resources": 2053,
+    "tick": 37
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 9,
+    "minutes": 30,
+    "population": 56,
+    "resources": 2053,
+    "tick": 38
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 9,
+    "minutes": 45,
+    "population": 56,
+    "resources": 2053,
+    "tick": 39
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 10,
+    "minutes": 0,
+    "population": 56,
+    "resources": 2053,
+    "tick": 40
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 10,
+    "minutes": 15,
+    "population": 56,
+    "resources": 2053,
+    "tick": 41
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 10,
+    "minutes": 30,
+    "population": 56,
+    "resources": 2053,
+    "tick": 42
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 10,
+    "minutes": 45,
+    "population": 56,
+    "resources": 2053,
+    "tick": 43
+  },
+  {
+    "day": 4,
+    "growth_rate": "-29.00",
+    "hours": 11,
+    "minutes": 0,
+    "population": 71,
+    "resources": 2249,
+    "tick": 44
+  },
+  {
+    "day": 4,
+    "growth_rate": "-29.00",
+    "hours": 11,
+    "minutes": 15,
+    "population": 71,
+    "resources": 2249,
+    "tick": 45
+  },
+  {
+    "day": 4,
+    "growth_rate": "-29.00",
+    "hours": 11,
+    "minutes": 30,
+    "population": 71,
+    "resources": 2249,
+    "tick": 46
+  },
+  {
+    "day": 4,
+    "growth_rate": "-29.00",
+    "hours": 11,
+    "minutes": 45,
+    "population": 71,
+    "resources": 2249,
+    "tick": 47
+  },
+  {
+    "day": 4,
+    "growth_rate": "-29.00",
+    "hours": 12,
+    "minutes": 0,
+    "population": 71,
+    "resources": 2249,
+    "tick": 48
+  },
+  {
+    "day": 4,
+    "growth_rate": "-29.00",
+    "hours": 12,
+    "minutes": 15,
+    "population": 71,
+    "resources": 2249,
+    "tick": 49
+  },
+  {
+    "day": 4,
+    "growth_rate": "-29.00",
+    "hours": 12,
+    "minutes": 30,
+    "population": 71,
+    "resources": 2249,
+    "tick": 50
+  },
+  {
+    "day": 4,
+    "growth_rate": "-29.00",
+    "hours": 12,
+    "minutes": 45,
+    "population": 71,
+    "resources": 2249,
+    "tick": 51
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 13,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1850,
+    "tick": 52
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 13,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1850,
+    "tick": 53
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 13,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1850,
+    "tick": 54
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 13,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1850,
+    "tick": 55
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 14,
+    "minutes": 0,
+    "population": 56,
+    "resources": 1850,
+    "tick": 56
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 14,
+    "minutes": 15,
+    "population": 56,
+    "resources": 1850,
+    "tick": 57
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 14,
+    "minutes": 30,
+    "population": 56,
+    "resources": 1850,
+    "tick": 58
+  },
+  {
+    "day": 4,
+    "growth_rate": "-44.00",
+    "hours": 14,
+    "minutes": 45,
+    "population": 56,
+    "resources": 1850,
+    "tick": 59
+  },
+  {
+    "day": 4,
+    "growth_rate": "-33.00",
+    "hours": 15,
+    "minutes": 0,
+    "population": 67,
+    "resources": 2149,
+    "tick": 60
+  },
+  {
+    "day": 4,
+    "growth_rate": "-33.00",
+    "hours": 15,
+    "minutes": 15,
+    "population": 67,
+    "resources": 2149,
+    "tick": 61
+  },
+  {
+    "day": 4,
+    "growth_rate": "-33.00",
+    "hours": 15,
+    "minutes": 30,
+    "population": 67,
+    "resources": 2149,
+    "tick": 62
+  },
+  {
+    "day": 4,
+    "growth_rate": "-33.00",
+    "hours": 15,
+    "minutes": 45,
+    "population": 67,
+    "resources": 2149,
+    "tick": 63
+  },
+  {
+    "day": 4,
+    "growth_rate": "-33.00",
+    "hours": 16,
+    "minutes": 0,
+    "population": 67,
+    "resources": 2149,
+    "tick": 64
+  },
+  {
+    "day": 4,
+    "growth_rate": "-33.00",
+    "hours": 16,
+    "minutes": 15,
+    "population": 67,
+    "resources": 2149,
+    "tick": 65
+  },
+  {
+    "day": 4,
+    "growth_rate": "-33.00",
+    "hours": 16,
+    "minutes": 30,
+    "population": 67,
+    "resources": 2149,
+    "tick": 66
+  },
+  {
+    "day": 4,
+    "growth_rate": "-33.00",
+    "hours": 16,
+    "minutes": 45,
+    "population": 67,
+    "resources": 2149,
+    "tick": 67
+  },
+  {
+    "day": 4,
+    "growth_rate": "-39.00",
+    "hours": 17,
+    "minutes": 0,
+    "population": 61,
+    "resources": 2060,
+    "tick": 68
+  },
+  {
+    "day": 4,
+    "growth_rate": "-39.00",
+    "hours": 17,
+    "minutes": 15,
+    "population": 61,
+    "resources": 2060,
+    "tick": 69
+  },
+  {
+    "day": 4,
+    "growth_rate": "-39.00",
+    "hours": 17,
+    "minutes": 30,
+    "population": 61,
+    "resources": 2060,
+    "tick": 70
+  },
+  {
+    "day": 4,
+    "growth_rate": "-39.00",
+    "hours": 17,
+    "minutes": 45,
+    "population": 61,
+    "resources": 2060,
+    "tick": 71
+  },
+  {
+    "day": 4,
+    "growth_rate": "-39.00",
+    "hours": 18,
+    "minutes": 0,
+    "population": 61,
+    "resources": 2060,
+    "tick": 72
+  },
+  {
+    "day": 4,
+    "growth_rate": "-39.00",
+    "hours": 18,
+    "minutes": 15,
+    "population": 61,
+    "resources": 2060,
+    "tick": 73
+  },
+  {
+    "day": 4,
+    "growth_rate": "-39.00",
+    "hours": 18,
+    "minutes": 30,
+    "population": 61,
+    "resources": 2060,
+    "tick": 74
+  },
+  {
+    "day": 4,
+    "growth_rate": "-39.00",
+    "hours": 18,
+    "minutes": 45,
+    "population": 61,
+    "resources": 2060,
+    "tick": 75
+  },
+  {
+    "day": 4,
+    "growth_rate": "-52.00",
+    "hours": 19,
+    "minutes": 0,
+    "population": 48,
+    "resources": 1823,
+    "tick": 76
+  },
+  {
+    "day": 4,
+    "growth_rate": "-52.00",
+    "hours": 19,
+    "minutes": 15,
+    "population": 48,
+    "resources": 1823,
+    "tick": 77
+  },
+  {
+    "day": 4,
+    "growth_rate": "-52.00",
+    "hours": 19,
+    "minutes": 30,
+    "population": 48,
+    "resources": 1823,
+    "tick": 78
+  },
+  {
+    "day": 4,
+    "growth_rate": "-52.00",
+    "hours": 19,
+    "minutes": 45,
+    "population": 48,
+    "resources": 1823,
+    "tick": 79
+  },
+  {
+    "day": 4,
+    "growth_rate": "-52.00",
+    "hours": 20,
+    "minutes": 0,
+    "population": 48,
+    "resources": 1823,
+    "tick": 80
+  },
+  {
+    "day": 4,
+    "growth_rate": "-52.00",
+    "hours": 20,
+    "minutes": 15,
+    "population": 48,
+    "resources": 1823,
+    "tick": 81
+  },
+  {
+    "day": 4,
+    "growth_rate": "-52.00",
+    "hours": 20,
+    "minutes": 30,
+    "population": 48,
+    "resources": 1823,
+    "tick": 82
+  },
+  {
+    "day": 4,
+    "growth_rate": "-52.00",
+    "hours": 20,
+    "minutes": 45,
+    "population": 48,
+    "resources": 1823,
+    "tick": 83
+  },
+  {
+    "day": 4,
+    "growth_rate": "-50.00",
+    "hours": 21,
+    "minutes": 0,
+    "population": 50,
+    "resources": 2218,
+    "tick": 84
+  },
+  {
+    "day": 4,
+    "growth_rate": "-50.00",
+    "hours": 21,
+    "minutes": 15,
+    "population": 50,
+    "resources": 2218,
+    "tick": 85
+  },
+  {
+    "day": 4,
+    "growth_rate": "-50.00",
+    "hours": 21,
+    "minutes": 30,
+    "population": 50,
+    "resources": 2218,
+    "tick": 86
+  },
+  {
+    "day": 4,
+    "growth_rate": "-50.00",
+    "hours": 21,
+    "minutes": 45,
+    "population": 50,
+    "resources": 2218,
+    "tick": 87
+  },
+  {
+    "day": 4,
+    "growth_rate": "-50.00",
+    "hours": 22,
+    "minutes": 0,
+    "population": 50,
+    "resources": 2218,
+    "tick": 88
+  },
+  {
+    "day": 4,
+    "growth_rate": "-50.00",
+    "hours": 22,
+    "minutes": 15,
+    "population": 50,
+    "resources": 2218,
+    "tick": 89
+  },
+  {
+    "day": 4,
+    "growth_rate": "-50.00",
+    "hours": 22,
+    "minutes": 30,
+    "population": 50,
+    "resources": 2218,
+    "tick": 90
+  },
+  {
+    "day": 4,
+    "growth_rate": "-50.00",
+    "hours": 22,
+    "minutes": 45,
+    "population": 50,
+    "resources": 2218,
+    "tick": 91
+  },
+  {
+    "day": 4,
+    "growth_rate": "-56.00",
+    "hours": 23,
+    "minutes": 0,
+    "population": 44,
+    "resources": 1872,
+    "tick": 92
+  },
+  {
+    "day": 4,
+    "growth_rate": "-56.00",
+    "hours": 23,
+    "minutes": 15,
+    "population": 44,
+    "resources": 1872,
+    "tick": 93
+  },
+  {
+    "day": 4,
+    "growth_rate": "-56.00",
+    "hours": 23,
+    "minutes": 30,
+    "population": 44,
+    "resources": 1872,
+    "tick": 94
+  },
+  {
+    "day": 4,
+    "growth_rate": "-56.00",
+    "hours": 23,
+    "minutes": 45,
+    "population": 44,
+    "resources": 1872,
+    "tick": 95
+  },
+  {
+    "day": 5,
+    "growth_rate": "-56.00",
+    "hours": 0,
+    "minutes": 0,
+    "population": 44,
+    "resources": 1872,
+    "tick": 0
+  },
+  {
+    "day": 5,
+    "growth_rate": "-56.00",
+    "hours": 0,
+    "minutes": 15,
+    "population": 44,
+    "resources": 1872,
+    "tick": 1
+  },
+  {
+    "day": 5,
+    "growth_rate": "-56.00",
+    "hours": 0,
+    "minutes": 30,
+    "population": 44,
+    "resources": 1872,
+    "tick": 2
+  },
+  {
+    "day": 5,
+    "growth_rate": "-56.00",
+    "hours": 0,
+    "minutes": 45,
+    "population": 44,
+    "resources": 1872,
+    "tick": 3
+  },
+  {
+    "day": 5,
+    "growth_rate": "-47.00",
+    "hours": 1,
+    "minutes": 0,
+    "population": 53,
+    "resources": 2192,
+    "tick": 4
+  },
+  {
+    "day": 5,
+    "growth_rate": "-47.00",
+    "hours": 1,
+    "minutes": 15,
+    "population": 53,
+    "resources": 2192,
+    "tick": 5
+  },
+  {
+    "day": 5,
+    "growth_rate": "-47.00",
+    "hours": 1,
+    "minutes": 30,
+    "population": 53,
+    "resources": 2192,
+    "tick": 6
+  },
+  {
+    "day": 5,
+    "growth_rate": "-47.00",
+    "hours": 1,
+    "minutes": 45,
+    "population": 53,
+    "resources": 2192,
+    "tick": 7
+  },
+  {
+    "day": 5,
+    "growth_rate": "-47.00",
+    "hours": 2,
+    "minutes": 0,
+    "population": 53,
+    "resources": 2192,
+    "tick": 8
+  },
+  {
+    "day": 5,
+    "growth_rate": "-47.00",
+    "hours": 2,
+    "minutes": 15,
+    "population": 53,
+    "resources": 2192,
+    "tick": 9
+  },
+  {
+    "day": 5,
+    "growth_rate": "-47.00",
+    "hours": 2,
+    "minutes": 30,
+    "population": 53,
+    "resources": 2192,
+    "tick": 10
+  },
+  {
+    "day": 5,
+    "growth_rate": "-47.00",
+    "hours": 2,
+    "minutes": 45,
+    "population": 53,
+    "resources": 2192,
+    "tick": 11
+  },
+  {
+    "day": 5,
+    "growth_rate": "-37.00",
+    "hours": 3,
+    "minutes": 0,
+    "population": 63,
+    "resources": 2446,
+    "tick": 12
+  },
+  {
+    "day": 5,
+    "growth_rate": "-37.00",
+    "hours": 3,
+    "minutes": 15,
+    "population": 63,
+    "resources": 2446,
+    "tick": 13
+  },
+  {
+    "day": 5,
+    "growth_rate": "-37.00",
+    "hours": 3,
+    "minutes": 30,
+    "population": 63,
+    "resources": 2446,
+    "tick": 14
+  },
+  {
+    "day": 5,
+    "growth_rate": "-37.00",
+    "hours": 3,
+    "minutes": 45,
+    "population": 63,
+    "resources": 2446,
+    "tick": 15
+  },
+  {
+    "day": 5,
+    "growth_rate": "-37.00",
+    "hours": 4,
+    "minutes": 0,
+    "population": 63,
+    "resources": 2446,
+    "tick": 16
+  },
+  {
+    "day": 5,
+    "growth_rate": "-37.00",
+    "hours": 4,
+    "minutes": 15,
+    "population": 63,
+    "resources": 2446,
+    "tick": 17
+  },
+  {
+    "day": 5,
+    "growth_rate": "-37.00",
+    "hours": 4,
+    "minutes": 30,
+    "population": 63,
+    "resources": 2446,
+    "tick": 18
+  },
+  {
+    "day": 5,
+    "growth_rate": "-37.00",
+    "hours": 4,
+    "minutes": 45,
+    "population": 63,
+    "resources": 2446,
+    "tick": 19
+  },
+  {
+    "day": 5,
+    "growth_rate": "-40.00",
+    "hours": 5,
+    "minutes": 0,
+    "population": 60,
+    "resources": 2124,
+    "tick": 20
+  },
+  {
+    "day": 5,
+    "growth_rate": "-40.00",
+    "hours": 5,
+    "minutes": 15,
+    "population": 60,
+    "resources": 2124,
+    "tick": 21
+  },
+  {
+    "day": 5,
+    "growth_rate": "-40.00",
+    "hours": 5,
+    "minutes": 30,
+    "population": 60,
+    "resources": 2124,
+    "tick": 22
+  },
+  {
+    "day": 5,
+    "growth_rate": "-40.00",
+    "hours": 5,
+    "minutes": 45,
+    "population": 60,
+    "resources": 2124,
+    "tick": 23
+  },
+  {
+    "day": 5,
+    "growth_rate": "-40.00",
+    "hours": 6,
+    "minutes": 0,
+    "population": 60,
+    "resources": 2124,
+    "tick": 24
+  },
+  {
+    "day": 5,
+    "growth_rate": "-40.00",
+    "hours": 6,
+    "minutes": 15,
+    "population": 60,
+    "resources": 2124,
+    "tick": 25
+  },
+  {
+    "day": 5,
+    "growth_rate": "-40.00",
+    "hours": 6,
+    "minutes": 30,
+    "population": 60,
+    "resources": 2124,
+    "tick": 26
+  },
+  {
+    "day": 5,
+    "growth_rate": "-40.00",
+    "hours": 6,
+    "minutes": 45,
+    "population": 60,
+    "resources": 2124,
+    "tick": 27
+  },
+  {
+    "day": 5,
+    "growth_rate": "-26.00",
+    "hours": 7,
+    "minutes": 0,
+    "population": 74,
+    "resources": 2383,
+    "tick": 28
+  },
+  {
+    "day": 5,
+    "growth_rate": "-26.00",
+    "hours": 7,
+    "minutes": 15,
+    "population": 74,
+    "resources": 2383,
+    "tick": 29
+  },
+  {
+    "day": 5,
+    "growth_rate": "-26.00",
+    "hours": 7,
+    "minutes": 30,
+    "population": 74,
+    "resources": 2383,
+    "tick": 30
+  },
+  {
+    "day": 5,
+    "growth_rate": "-26.00",
+    "hours": 7,
+    "minutes": 45,
+    "population": 74,
+    "resources": 2383,
+    "tick": 31
+  },
+  {
+    "day": 5,
+    "growth_rate": "-26.00",
+    "hours": 8,
+    "minutes": 0,
+    "population": 74,
+    "resources": 2383,
+    "tick": 32
+  },
+  {
+    "day": 5,
+    "growth_rate": "-26.00",
+    "hours": 8,
+    "minutes": 15,
+    "population": 74,
+    "resources": 2383,
+    "tick": 33
+  },
+  {
+    "day": 5,
+    "growth_rate": "-26.00",
+    "hours": 8,
+    "minutes": 30,
+    "population": 74,
+    "resources": 2383,
+    "tick": 34
+  },
+  {
+    "day": 5,
+    "growth_rate": "-26.00",
+    "hours": 8,
+    "minutes": 45,
+    "population": 74,
+    "resources": 2383,
+    "tick": 35
+  },
+  {
+    "day": 5,
+    "growth_rate": "-23.00",
+    "hours": 9,
+    "minutes": 0,
+    "population": 77,
+    "resources": 3092,
+    "tick": 36
+  },
+  {
+    "day": 5,
+    "growth_rate": "-23.00",
+    "hours": 9,
+    "minutes": 15,
+    "population": 77,
+    "resources": 3092,
+    "tick": 37
+  },
+  {
+    "day": 5,
+    "growth_rate": "-23.00",
+    "hours": 9,
+    "minutes": 30,
+    "population": 77,
+    "resources": 3092,
+    "tick": 38
+  },
+  {
+    "day": 5,
+    "growth_rate": "-23.00",
+    "hours": 9,
+    "minutes": 45,
+    "population": 77,
+    "resources": 3092,
+    "tick": 39
+  },
+  {
+    "day": 5,
+    "growth_rate": "-23.00",
+    "hours": 10,
+    "minutes": 0,
+    "population": 77,
+    "resources": 3092,
+    "tick": 40
+  },
+  {
+    "day": 5,
+    "growth_rate": "-23.00",
+    "hours": 10,
+    "minutes": 15,
+    "population": 77,
+    "resources": 3092,
+    "tick": 41
+  },
+  {
+    "day": 5,
+    "growth_rate": "-23.00",
+    "hours": 10,
+    "minutes": 30,
+    "population": 77,
+    "resources": 3092,
+    "tick": 42
+  },
+  {
+    "day": 5,
+    "growth_rate": "-23.00",
+    "hours": 10,
+    "minutes": 45,
+    "population": 77,
+    "resources": 3092,
+    "tick": 43
+  },
+  {
+    "day": 5,
+    "growth_rate": "-41.00",
+    "hours": 11,
+    "minutes": 0,
+    "population": 59,
+    "resources": 2904,
+    "tick": 44
+  },
+  {
+    "day": 5,
+    "growth_rate": "-41.00",
+    "hours": 11,
+    "minutes": 15,
+    "population": 59,
+    "resources": 2904,
+    "tick": 45
+  },
+  {
+    "day": 5,
+    "growth_rate": "-41.00",
+    "hours": 11,
+    "minutes": 30,
+    "population": 59,
+    "resources": 2904,
+    "tick": 46
+  },
+  {
+    "day": 5,
+    "growth_rate": "-41.00",
+    "hours": 11,
+    "minutes": 45,
+    "population": 59,
+    "resources": 2904,
+    "tick": 47
+  },
+  {
+    "day": 5,
+    "growth_rate": "-41.00",
+    "hours": 12,
+    "minutes": 0,
+    "population": 59,
+    "resources": 2904,
+    "tick": 48
+  },
+  {
+    "day": 5,
+    "growth_rate": "-41.00",
+    "hours": 12,
+    "minutes": 15,
+    "population": 59,
+    "resources": 2904,
+    "tick": 49
+  },
+  {
+    "day": 5,
+    "growth_rate": "-41.00",
+    "hours": 12,
+    "minutes": 30,
+    "population": 59,
+    "resources": 2904,
+    "tick": 50
+  },
+  {
+    "day": 5,
+    "growth_rate": "-41.00",
+    "hours": 12,
+    "minutes": 45,
+    "population": 59,
+    "resources": 2904,
+    "tick": 51
+  },
+  {
+    "day": 5,
+    "growth_rate": "-25.00",
+    "hours": 13,
+    "minutes": 0,
+    "population": 75,
+    "resources": 3840,
+    "tick": 52
+  },
+  {
+    "day": 5,
+    "growth_rate": "-25.00",
+    "hours": 13,
+    "minutes": 15,
+    "population": 75,
+    "resources": 3840,
+    "tick": 53
+  },
+  {
+    "day": 5,
+    "growth_rate": "-25.00",
+    "hours": 13,
+    "minutes": 30,
+    "population": 75,
+    "resources": 3840,
+    "tick": 54
+  },
+  {
+    "day": 5,
+    "growth_rate": "-25.00",
+    "hours": 13,
+    "minutes": 45,
+    "population": 75,
+    "resources": 3840,
+    "tick": 55
+  },
+  {
+    "day": 5,
+    "growth_rate": "-25.00",
+    "hours": 14,
+    "minutes": 0,
+    "population": 75,
+    "resources": 3840,
+    "tick": 56
+  },
+  {
+    "day": 5,
+    "growth_rate": "-25.00",
+    "hours": 14,
+    "minutes": 15,
+    "population": 75,
+    "resources": 3840,
+    "tick": 57
+  },
+  {
+    "day": 5,
+    "growth_rate": "-25.00",
+    "hours": 14,
+    "minutes": 30,
+    "population": 75,
+    "resources": 3840,
+    "tick": 58
+  },
+  {
+    "day": 5,
+    "growth_rate": "-25.00",
+    "hours": 14,
+    "minutes": 45,
+    "population": 75,
+    "resources": 3840,
+    "tick": 59
+  },
+  {
+    "day": 5,
+    "growth_rate": "-34.00",
+    "hours": 15,
+    "minutes": 0,
+    "population": 66,
+    "resources": 3646,
+    "tick": 60
+  },
+  {
+    "day": 5,
+    "growth_rate": "-34.00",
+    "hours": 15,
+    "minutes": 15,
+    "population": 66,
+    "resources": 3646,
+    "tick": 61
+  },
+  {
+    "day": 5,
+    "growth_rate": "-34.00",
+    "hours": 15,
+    "minutes": 30,
+    "population": 66,
+    "resources": 3646,
+    "tick": 62
+  },
+  {
+    "day": 5,
+    "growth_rate": "-34.00",
+    "hours": 15,
+    "minutes": 45,
+    "population": 66,
+    "resources": 3646,
+    "tick": 63
+  },
+  {
+    "day": 5,
+    "growth_rate": "-34.00",
+    "hours": 16,
+    "minutes": 0,
+    "population": 66,
+    "resources": 3646,
+    "tick": 64
+  },
+  {
+    "day": 5,
+    "growth_rate": "-34.00",
+    "hours": 16,
+    "minutes": 15,
+    "population": 66,
+    "resources": 3646,
+    "tick": 65
+  },
+  {
+    "day": 5,
+    "growth_rate": "-34.00",
+    "hours": 16,
+    "minutes": 30,
+    "population": 66,
+    "resources": 3646,
+    "tick": 66
+  },
+  {
+    "day": 5,
+    "growth_rate": "-34.00",
+    "hours": 16,
+    "minutes": 45,
+    "population": 66,
+    "resources": 3646,
+    "tick": 67
+  },
+  {
+    "day": 5,
+    "growth_rate": "-19.00",
+    "hours": 17,
+    "minutes": 0,
+    "population": 81,
+    "resources": 4638,
+    "tick": 68
+  },
+  {
+    "day": 5,
+    "growth_rate": "-19.00",
+    "hours": 17,
+    "minutes": 15,
+    "population": 81,
+    "resources": 4638,
+    "tick": 69
+  },
+  {
+    "day": 5,
+    "growth_rate": "-19.00",
+    "hours": 17,
+    "minutes": 30,
+    "population": 81,
+    "resources": 4638,
+    "tick": 70
+  },
+  {
+    "day": 5,
+    "growth_rate": "-19.00",
+    "hours": 17,
+    "minutes": 45,
+    "population": 81,
+    "resources": 4638,
+    "tick": 71
+  },
+  {
+    "day": 5,
+    "growth_rate": "-19.00",
+    "hours": 18,
+    "minutes": 0,
+    "population": 81,
+    "resources": 4638,
+    "tick": 72
+  },
+  {
+    "day": 5,
+    "growth_rate": "-19.00",
+    "hours": 18,
+    "minutes": 15,
+    "population": 81,
+    "resources": 4638,
+    "tick": 73
+  },
+  {
+    "day": 5,
+    "growth_rate": "-19.00",
+    "hours": 18,
+    "minutes": 30,
+    "population": 81,
+    "resources": 4638,
+    "tick": 74
+  },
+  {
+    "day": 5,
+    "growth_rate": "-19.00",
+    "hours": 18,
+    "minutes": 45,
+    "population": 81,
+    "resources": 4638,
+    "tick": 75
+  },
+  {
+    "day": 5,
+    "growth_rate": "-20.00",
+    "hours": 19,
+    "minutes": 0,
+    "population": 80,
+    "resources": 4462,
+    "tick": 76
+  },
+  {
+    "day": 5,
+    "growth_rate": "-20.00",
+    "hours": 19,
+    "minutes": 15,
+    "population": 80,
+    "resources": 4462,
+    "tick": 77
+  },
+  {
+    "day": 5,
+    "growth_rate": "-20.00",
+    "hours": 19,
+    "minutes": 30,
+    "population": 80,
+    "resources": 4462,
+    "tick": 78
+  },
+  {
+    "day": 5,
+    "growth_rate": "-20.00",
+    "hours": 19,
+    "minutes": 45,
+    "population": 80,
+    "resources": 4462,
+    "tick": 79
+  },
+  {
+    "day": 5,
+    "growth_rate": "-20.00",
+    "hours": 20,
+    "minutes": 0,
+    "population": 80,
+    "resources": 4462,
+    "tick": 80
+  },
+  {
+    "day": 5,
+    "growth_rate": "-20.00",
+    "hours": 20,
+    "minutes": 15,
+    "population": 80,
+    "resources": 4462,
+    "tick": 81
+  },
+  {
+    "day": 5,
+    "growth_rate": "-20.00",
+    "hours": 20,
+    "minutes": 30,
+    "population": 80,
+    "resources": 4462,
+    "tick": 82
+  },
+  {
+    "day": 5,
+    "growth_rate": "-20.00",
+    "hours": 20,
+    "minutes": 45,
+    "population": 80,
+    "resources": 4462,
+    "tick": 83
+  },
+  {
+    "day": 5,
+    "growth_rate": "-7.00",
+    "hours": 21,
+    "minutes": 0,
+    "population": 93,
+    "resources": 5257,
+    "tick": 84
+  },
+  {
+    "day": 5,
+    "growth_rate": "-7.00",
+    "hours": 21,
+    "minutes": 15,
+    "population": 93,
+    "resources": 5257,
+    "tick": 85
+  },
+  {
+    "day": 5,
+    "growth_rate": "-7.00",
+    "hours": 21,
+    "minutes": 30,
+    "population": 93,
+    "resources": 5257,
+    "tick": 86
+  },
+  {
+    "day": 5,
+    "growth_rate": "-7.00",
+    "hours": 21,
+    "minutes": 45,
+    "population": 93,
+    "resources": 5257,
+    "tick": 87
+  },
+  {
+    "day": 5,
+    "growth_rate": "-7.00",
+    "hours": 22,
+    "minutes": 0,
+    "population": 93,
+    "resources": 5257,
+    "tick": 88
+  },
+  {
+    "day": 5,
+    "growth_rate": "-7.00",
+    "hours": 22,
+    "minutes": 15,
+    "population": 93,
+    "resources": 5257,
+    "tick": 89
+  },
+  {
+    "day": 5,
+    "growth_rate": "-7.00",
+    "hours": 22,
+    "minutes": 30,
+    "population": 93,
+    "resources": 5257,
+    "tick": 90
+  },
+  {
+    "day": 5,
+    "growth_rate": "-7.00",
+    "hours": 22,
+    "minutes": 45,
+    "population": 93,
+    "resources": 5257,
+    "tick": 91
+  },
+  {
+    "day": 5,
+    "growth_rate": "16.00",
+    "hours": 23,
+    "minutes": 0,
+    "population": 116,
+    "resources": 6121,
+    "tick": 92
+  },
+  {
+    "day": 5,
+    "growth_rate": "16.00",
+    "hours": 23,
+    "minutes": 15,
+    "population": 116,
+    "resources": 6121,
+    "tick": 93
+  },
+  {
+    "day": 5,
+    "growth_rate": "16.00",
+    "hours": 23,
+    "minutes": 30,
+    "population": 116,
+    "resources": 6121,
+    "tick": 94
+  },
+  {
+    "day": 5,
+    "growth_rate": "16.00",
+    "hours": 23,
+    "minutes": 45,
+    "population": 116,
+    "resources": 6121,
+    "tick": 95
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 0,
+    "minutes": 0,
+    "population": 116,
+    "resources": 6121,
+    "tick": 0
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 0,
+    "minutes": 15,
+    "population": 116,
+    "resources": 6121,
+    "tick": 1
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 0,
+    "minutes": 30,
+    "population": 116,
+    "resources": 6121,
+    "tick": 2
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 0,
+    "minutes": 45,
+    "population": 116,
+    "resources": 6121,
+    "tick": 3
+  },
+  {
+    "day": 6,
+    "growth_rate": "15.00",
+    "hours": 1,
+    "minutes": 0,
+    "population": 115,
+    "resources": 5893,
+    "tick": 4
+  },
+  {
+    "day": 6,
+    "growth_rate": "15.00",
+    "hours": 1,
+    "minutes": 15,
+    "population": 115,
+    "resources": 5893,
+    "tick": 5
+  },
+  {
+    "day": 6,
+    "growth_rate": "15.00",
+    "hours": 1,
+    "minutes": 30,
+    "population": 115,
+    "resources": 5893,
+    "tick": 6
+  },
+  {
+    "day": 6,
+    "growth_rate": "15.00",
+    "hours": 1,
+    "minutes": 45,
+    "population": 115,
+    "resources": 5893,
+    "tick": 7
+  },
+  {
+    "day": 6,
+    "growth_rate": "15.00",
+    "hours": 2,
+    "minutes": 0,
+    "population": 115,
+    "resources": 5893,
+    "tick": 8
+  },
+  {
+    "day": 6,
+    "growth_rate": "15.00",
+    "hours": 2,
+    "minutes": 15,
+    "population": 115,
+    "resources": 5893,
+    "tick": 9
+  },
+  {
+    "day": 6,
+    "growth_rate": "15.00",
+    "hours": 2,
+    "minutes": 30,
+    "population": 115,
+    "resources": 5893,
+    "tick": 10
+  },
+  {
+    "day": 6,
+    "growth_rate": "15.00",
+    "hours": 2,
+    "minutes": 45,
+    "population": 115,
+    "resources": 5893,
+    "tick": 11
+  },
+  {
+    "day": 6,
+    "growth_rate": "-6.00",
+    "hours": 3,
+    "minutes": 0,
+    "population": 94,
+    "resources": 4623,
+    "tick": 12
+  },
+  {
+    "day": 6,
+    "growth_rate": "-6.00",
+    "hours": 3,
+    "minutes": 15,
+    "population": 94,
+    "resources": 4623,
+    "tick": 13
+  },
+  {
+    "day": 6,
+    "growth_rate": "-6.00",
+    "hours": 3,
+    "minutes": 30,
+    "population": 94,
+    "resources": 4623,
+    "tick": 14
+  },
+  {
+    "day": 6,
+    "growth_rate": "-6.00",
+    "hours": 3,
+    "minutes": 45,
+    "population": 94,
+    "resources": 4623,
+    "tick": 15
+  },
+  {
+    "day": 6,
+    "growth_rate": "-6.00",
+    "hours": 4,
+    "minutes": 0,
+    "population": 94,
+    "resources": 4623,
+    "tick": 16
+  },
+  {
+    "day": 6,
+    "growth_rate": "-6.00",
+    "hours": 4,
+    "minutes": 15,
+    "population": 94,
+    "resources": 4623,
+    "tick": 17
+  },
+  {
+    "day": 6,
+    "growth_rate": "-6.00",
+    "hours": 4,
+    "minutes": 30,
+    "population": 94,
+    "resources": 4623,
+    "tick": 18
+  },
+  {
+    "day": 6,
+    "growth_rate": "-6.00",
+    "hours": 4,
+    "minutes": 45,
+    "population": 94,
+    "resources": 4623,
+    "tick": 19
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 5,
+    "minutes": 0,
+    "population": 116,
+    "resources": 5819,
+    "tick": 20
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 5,
+    "minutes": 15,
+    "population": 116,
+    "resources": 5819,
+    "tick": 21
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 5,
+    "minutes": 30,
+    "population": 116,
+    "resources": 5819,
+    "tick": 22
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 5,
+    "minutes": 45,
+    "population": 116,
+    "resources": 5819,
+    "tick": 23
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 6,
+    "minutes": 0,
+    "population": 116,
+    "resources": 5819,
+    "tick": 24
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 6,
+    "minutes": 15,
+    "population": 116,
+    "resources": 5819,
+    "tick": 25
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 6,
+    "minutes": 30,
+    "population": 116,
+    "resources": 5819,
+    "tick": 26
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 6,
+    "minutes": 45,
+    "population": 116,
+    "resources": 5819,
+    "tick": 27
+  },
+  {
+    "day": 6,
+    "growth_rate": "11.00",
+    "hours": 7,
+    "minutes": 0,
+    "population": 111,
+    "resources": 5679,
+    "tick": 28
+  },
+  {
+    "day": 6,
+    "growth_rate": "11.00",
+    "hours": 7,
+    "minutes": 15,
+    "population": 111,
+    "resources": 5679,
+    "tick": 29
+  },
+  {
+    "day": 6,
+    "growth_rate": "11.00",
+    "hours": 7,
+    "minutes": 30,
+    "population": 111,
+    "resources": 5679,
+    "tick": 30
+  },
+  {
+    "day": 6,
+    "growth_rate": "11.00",
+    "hours": 7,
+    "minutes": 45,
+    "population": 111,
+    "resources": 5679,
+    "tick": 31
+  },
+  {
+    "day": 6,
+    "growth_rate": "11.00",
+    "hours": 8,
+    "minutes": 0,
+    "population": 111,
+    "resources": 5679,
+    "tick": 32
+  },
+  {
+    "day": 6,
+    "growth_rate": "11.00",
+    "hours": 8,
+    "minutes": 15,
+    "population": 111,
+    "resources": 5679,
+    "tick": 33
+  },
+  {
+    "day": 6,
+    "growth_rate": "11.00",
+    "hours": 8,
+    "minutes": 30,
+    "population": 111,
+    "resources": 5679,
+    "tick": 34
+  },
+  {
+    "day": 6,
+    "growth_rate": "11.00",
+    "hours": 8,
+    "minutes": 45,
+    "population": 111,
+    "resources": 5679,
+    "tick": 35
+  },
+  {
+    "day": 6,
+    "growth_rate": "23.00",
+    "hours": 9,
+    "minutes": 0,
+    "population": 123,
+    "resources": 6753,
+    "tick": 36
+  },
+  {
+    "day": 6,
+    "growth_rate": "23.00",
+    "hours": 9,
+    "minutes": 15,
+    "population": 123,
+    "resources": 6753,
+    "tick": 37
+  },
+  {
+    "day": 6,
+    "growth_rate": "23.00",
+    "hours": 9,
+    "minutes": 30,
+    "population": 123,
+    "resources": 6753,
+    "tick": 38
+  },
+  {
+    "day": 6,
+    "growth_rate": "23.00",
+    "hours": 9,
+    "minutes": 45,
+    "population": 123,
+    "resources": 6753,
+    "tick": 39
+  },
+  {
+    "day": 6,
+    "growth_rate": "23.00",
+    "hours": 10,
+    "minutes": 0,
+    "population": 123,
+    "resources": 6753,
+    "tick": 40
+  },
+  {
+    "day": 6,
+    "growth_rate": "23.00",
+    "hours": 10,
+    "minutes": 15,
+    "population": 123,
+    "resources": 6753,
+    "tick": 41
+  },
+  {
+    "day": 6,
+    "growth_rate": "23.00",
+    "hours": 10,
+    "minutes": 30,
+    "population": 123,
+    "resources": 6753,
+    "tick": 42
+  },
+  {
+    "day": 6,
+    "growth_rate": "23.00",
+    "hours": 10,
+    "minutes": 45,
+    "population": 123,
+    "resources": 6753,
+    "tick": 43
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 11,
+    "minutes": 0,
+    "population": 116,
+    "resources": 6228,
+    "tick": 44
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 11,
+    "minutes": 15,
+    "population": 116,
+    "resources": 6228,
+    "tick": 45
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 11,
+    "minutes": 30,
+    "population": 116,
+    "resources": 6228,
+    "tick": 46
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 11,
+    "minutes": 45,
+    "population": 116,
+    "resources": 6228,
+    "tick": 47
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 12,
+    "minutes": 0,
+    "population": 116,
+    "resources": 6228,
+    "tick": 48
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 12,
+    "minutes": 15,
+    "population": 116,
+    "resources": 6228,
+    "tick": 49
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 12,
+    "minutes": 30,
+    "population": 116,
+    "resources": 6228,
+    "tick": 50
+  },
+  {
+    "day": 6,
+    "growth_rate": "16.00",
+    "hours": 12,
+    "minutes": 45,
+    "population": 116,
+    "resources": 6228,
+    "tick": 51
+  },
+  {
+    "day": 6,
+    "growth_rate": "35.00",
+    "hours": 13,
+    "minutes": 0,
+    "population": 135,
+    "resources": 8092,
+    "tick": 52
+  },
+  {
+    "day": 6,
+    "growth_rate": "35.00",
+    "hours": 13,
+    "minutes": 15,
+    "population": 135,
+    "resources": 8092,
+    "tick": 53
+  },
+  {
+    "day": 6,
+    "growth_rate": "35.00",
+    "hours": 13,
+    "minutes": 30,
+    "population": 135,
+    "resources": 8092,
+    "tick": 54
+  },
+  {
+    "day": 6,
+    "growth_rate": "35.00",
+    "hours": 13,
+    "minutes": 45,
+    "population": 135,
+    "resources": 8092,
+    "tick": 55
+  },
+  {
+    "day": 6,
+    "growth_rate": "35.00",
+    "hours": 14,
+    "minutes": 0,
+    "population": 135,
+    "resources": 8092,
+    "tick": 56
+  },
+  {
+    "day": 6,
+    "growth_rate": "35.00",
+    "hours": 14,
+    "minutes": 15,
+    "population": 135,
+    "resources": 8092,
+    "tick": 57
+  },
+  {
+    "day": 6,
+    "growth_rate": "35.00",
+    "hours": 14,
+    "minutes": 30,
+    "population": 135,
+    "resources": 8092,
+    "tick": 58
+  },
+  {
+    "day": 6,
+    "growth_rate": "35.00",
+    "hours": 14,
+    "minutes": 45,
+    "population": 135,
+    "resources": 8092,
+    "tick": 59
+  },
+  {
+    "day": 6,
+    "growth_rate": "52.00",
+    "hours": 15,
+    "minutes": 0,
+    "population": 152,
+    "resources": 10395,
+    "tick": 60
+  },
+  {
+    "day": 6,
+    "growth_rate": "52.00",
+    "hours": 15,
+    "minutes": 15,
+    "population": 152,
+    "resources": 10395,
+    "tick": 61
+  },
+  {
+    "day": 6,
+    "growth_rate": "52.00",
+    "hours": 15,
+    "minutes": 30,
+    "population": 152,
+    "resources": 10395,
+    "tick": 62
+  },
+  {
+    "day": 6,
+    "growth_rate": "52.00",
+    "hours": 15,
+    "minutes": 45,
+    "population": 152,
+    "resources": 10395,
+    "tick": 63
+  },
+  {
+    "day": 6,
+    "growth_rate": "52.00",
+    "hours": 16,
+    "minutes": 0,
+    "population": 152,
+    "resources": 10395,
+    "tick": 64
+  },
+  {
+    "day": 6,
+    "growth_rate": "52.00",
+    "hours": 16,
+    "minutes": 15,
+    "population": 152,
+    "resources": 10395,
+    "tick": 65
+  },
+  {
+    "day": 6,
+    "growth_rate": "52.00",
+    "hours": 16,
+    "minutes": 30,
+    "population": 152,
+    "resources": 10395,
+    "tick": 66
+  },
+  {
+    "day": 6,
+    "growth_rate": "52.00",
+    "hours": 16,
+    "minutes": 45,
+    "population": 152,
+    "resources": 10395,
+    "tick": 67
+  },
+  {
+    "day": 6,
+    "growth_rate": "39.00",
+    "hours": 17,
+    "minutes": 0,
+    "population": 139,
+    "resources": 8373,
+    "tick": 68
+  },
+  {
+    "day": 6,
+    "growth_rate": "39.00",
+    "hours": 17,
+    "minutes": 15,
+    "population": 139,
+    "resources": 8373,
+    "tick": 69
+  },
+  {
+    "day": 6,
+    "growth_rate": "39.00",
+    "hours": 17,
+    "minutes": 30,
+    "population": 139,
+    "resources": 8373,
+    "tick": 70
+  },
+  {
+    "day": 6,
+    "growth_rate": "39.00",
+    "hours": 17,
+    "minutes": 45,
+    "population": 139,
+    "resources": 8373,
+    "tick": 71
+  },
+  {
+    "day": 6,
+    "growth_rate": "39.00",
+    "hours": 18,
+    "minutes": 0,
+    "population": 139,
+    "resources": 8373,
+    "tick": 72
+  },
+  {
+    "day": 6,
+    "growth_rate": "39.00",
+    "hours": 18,
+    "minutes": 15,
+    "population": 139,
+    "resources": 8373,
+    "tick": 73
+  },
+  {
+    "day": 6,
+    "growth_rate": "39.00",
+    "hours": 18,
+    "minutes": 30,
+    "population": 139,
+    "resources": 8373,
+    "tick": 74
+  },
+  {
+    "day": 6,
+    "growth_rate": "39.00",
+    "hours": 18,
+    "minutes": 45,
+    "population": 139,
+    "resources": 8373,
+    "tick": 75
+  },
+  {
+    "day": 6,
+    "growth_rate": "50.00",
+    "hours": 19,
+    "minutes": 0,
+    "population": 150,
+    "resources": 10865,
+    "tick": 76
+  },
+  {
+    "day": 6,
+    "growth_rate": "50.00",
+    "hours": 19,
+    "minutes": 15,
+    "population": 150,
+    "resources": 10865,
+    "tick": 77
+  },
+  {
+    "day": 6,
+    "growth_rate": "50.00",
+    "hours": 19,
+    "minutes": 30,
+    "population": 150,
+    "resources": 10865,
+    "tick": 78
+  },
+  {
+    "day": 6,
+    "growth_rate": "50.00",
+    "hours": 19,
+    "minutes": 45,
+    "population": 150,
+    "resources": 10865,
+    "tick": 79
+  },
+  {
+    "day": 6,
+    "growth_rate": "50.00",
+    "hours": 20,
+    "minutes": 0,
+    "population": 150,
+    "resources": 10865,
+    "tick": 80
+  },
+  {
+    "day": 6,
+    "growth_rate": "50.00",
+    "hours": 20,
+    "minutes": 15,
+    "population": 150,
+    "resources": 10865,
+    "tick": 81
+  },
+  {
+    "day": 6,
+    "growth_rate": "50.00",
+    "hours": 20,
+    "minutes": 30,
+    "population": 150,
+    "resources": 10865,
+    "tick": 82
+  },
+  {
+    "day": 6,
+    "growth_rate": "50.00",
+    "hours": 20,
+    "minutes": 45,
+    "population": 150,
+    "resources": 10865,
+    "tick": 83
+  },
+  {
+    "day": 6,
+    "growth_rate": "22.00",
+    "hours": 21,
+    "minutes": 0,
+    "population": 122,
+    "resources": 10795,
+    "tick": 84
+  },
+  {
+    "day": 6,
+    "growth_rate": "22.00",
+    "hours": 21,
+    "minutes": 15,
+    "population": 122,
+    "resources": 10795,
+    "tick": 85
+  },
+  {
+    "day": 6,
+    "growth_rate": "22.00",
+    "hours": 21,
+    "minutes": 30,
+    "population": 122,
+    "resources": 10795,
+    "tick": 86
+  },
+  {
+    "day": 6,
+    "growth_rate": "22.00",
+    "hours": 21,
+    "minutes": 45,
+    "population": 122,
+    "resources": 10795,
+    "tick": 87
+  },
+  {
+    "day": 6,
+    "growth_rate": "22.00",
+    "hours": 22,
+    "minutes": 0,
+    "population": 122,
+    "resources": 10795,
+    "tick": 88
+  },
+  {
+    "day": 6,
+    "growth_rate": "22.00",
+    "hours": 22,
+    "minutes": 15,
+    "population": 122,
+    "resources": 10795,
+    "tick": 89
+  },
+  {
+    "day": 6,
+    "growth_rate": "22.00",
+    "hours": 22,
+    "minutes": 30,
+    "population": 122,
+    "resources": 10795,
+    "tick": 90
+  },
+  {
+    "day": 6,
+    "growth_rate": "22.00",
+    "hours": 22,
+    "minutes": 45,
+    "population": 122,
+    "resources": 10795,
+    "tick": 91
+  },
+  {
+    "day": 6,
+    "growth_rate": "43.00",
+    "hours": 23,
+    "minutes": 0,
+    "population": 143,
+    "resources": 11728,
+    "tick": 92
+  },
+  {
+    "day": 6,
+    "growth_rate": "43.00",
+    "hours": 23,
+    "minutes": 15,
+    "population": 143,
+    "resources": 11728,
+    "tick": 93
+  },
+  {
+    "day": 6,
+    "growth_rate": "43.00",
+    "hours": 23,
+    "minutes": 30,
+    "population": 143,
+    "resources": 11728,
+    "tick": 94
+  },
+  {
+    "day": 6,
+    "growth_rate": "43.00",
+    "hours": 23,
+    "minutes": 45,
+    "population": 143,
+    "resources": 11728,
+    "tick": 95
+  },
+  {
+    "day": 7,
+    "growth_rate": "43.00",
+    "hours": 0,
+    "minutes": 0,
+    "population": 143,
+    "resources": 11728,
+    "tick": 0
+  }
+]
